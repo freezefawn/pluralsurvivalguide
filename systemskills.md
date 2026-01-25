@@ -21,32 +21,32 @@ This principle can be applied regardless of your origin theory or disorder statu
 Professional help for systems will usually take a different but still somewhat similar route to tulpamancy and this guide. Instead of encouraging separateness, the medical 'party line' is integration of the system into one unified person. Its still practicing neural pathways, just in the direction of learning singlethood over plurality.
 
 
-Disclaimer In The Interest Of Informed Consent:
-THIS IS UNCHARTED TERRITORY- HERE BE DRAGONS.
-You are DYI messing with your neural pathways in a way science has done very little research with.
-By choosing to learn system skills you lack, you accept that you are taking responsibility for what happens next.
-There are no shrinks here. These are trails blazed by the people for the people with little to no oversight and scientific testing.
-We are all boldly wading into murky water and sharing what works.
+## Disclaimer In the Interest of Informed Consent
+
+THIS IS UNCHARTED TERRITORY: HERE BE DRAGONS.
+
+In following these guides, you are DIY messing with your neural pathways in a way science has done **very little** research with. By choosing to use the guides listed, **you accept that you alone are taking responsibility for what happens next**. There are no shrinks here. These are trails blazed BY the people FOR the people with little to no oversight and scientific testing.
+
+We are all boldly wading into murky water and sharing what works. This is back-alley brainhacking, not medical help.
 
 THIS IS NOT ENDORSED BY ANY THERAPEUTIC INSTITUTION OR CERTIFIED INDIVIDUAL AND DOES NOT PRETEND TO BE.
-
 BY BEING IN FAVOR OF HEALTHY MULTIPLICITY THIS GUIDE IS INHERENTLY CONTRARY TO THE OFFICAL STANCE OF THE ISSD
 
-Most people who do things like this have neutral to positive experiences and acquire some benefit, but some people who have CDDs who practice tulpamancy and related techniques on their system may find they instead get a notable increase in negative symptoms. These are mostly people who were purposefully creating a new headmate wholesale, but this is not every report.
-Doing these techniques also generally speaking makes you 'more plural' so if you are working towards Final Fusion, this may be counterproductive.
+Most people who do things like this have neutral to positive experiences and acquire some benefit, but some people may instead get a increase in negative symptoms.
 
-If this scares you or makes you not wish to do this, then by all means, return to only getting information and help from your therapist- otherwise read on.
+In particular, some people with CDDs creating new headmates find that this can cause their system to destabilize and split more frequently, and some people with experiences of psychosis trying to learn imposition have have found that this can cause an increase in uncontrolled hallucinations. This is not all negative reports, however.
 
+Doing many these techniques also tends to make you 'more plural' so if you are working towards Final Fusion with a therapist, many these guides may be counterproductive.
 
+You have been warned.
 
-How to judge if its 'making you worse'
+### How to judge if its 'making you worse'
 
-If...
-- You have an increase in undesired symptoms when you try learning these skills.
-- You have difficulty with life tasks because of what you are doing.
-- Its destabilizing your system numbers or causing serious internal conflict.
-- It is giving you new undesired symptoms you have never experienced before.
-- Its giving you migraines or headaches whenever you try doing it.
+If you have an increase in...
+- Difficulty with participating in life (job, school, housework, hobbies, socalizing, etc).
+- Headaches or migraines when you try practicing them.
+- Serious internal conflict or uncontrolled headmate formation.
+- Any other undesired (new or otherwise) symptoms when you try learning these skills.
 
 Generally speaking, this means you should stop what you are doing.
 
@@ -56,12 +56,10 @@ If you go slow, pay attention, and track your wellbeing with system journaling, 
 
 With that out of the way;
 
+## System Skill Guides
 
-Our guides:
+[WIP LIST]
 
-(sub-table of contents here)
-
-
-Outside general guides:
+## External Guides:
 kinhost
 the tulpanomicon + dragonheart systems/eeveecraft's tulpa guides
