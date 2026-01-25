@@ -5,3 +5,4 @@
 - [What Now?](whatnow)
 - [Combating Doubts](combatdoubts)
 - [On Becoming Plural](becomeplural)
+- [Getting to Know Your System](knowsystem)
