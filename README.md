@@ -14,6 +14,7 @@ The curators of this guide have noticed that many newbies have a hard time rooti
 This guide was built in Obsidian and then exported to github via [Docsify](https://github.com/docsifyjs/docsify/)
 It is intended to be read both in a loose order dictated on the sidebar and by skipping around to whatever catches your eye.
 
+**LEGAL DISCLAIMER:** The information in this guide should not be taken as medical advice, rather as community wisdom. This is NOT sanctioned or tested by any medical oversight board and may have unintended negative conequences as a result. We are not liable for people treating this as a medical resource. **To reiterate: This is back-alley brainhacking, not medical help.** You have been warned.
 
 ## About The Curator
 The Dragonheart Collective -also known as Dragon(s)- is a queer nonhuman multiple system.
