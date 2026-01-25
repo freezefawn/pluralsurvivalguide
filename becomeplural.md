@@ -26,7 +26,7 @@ These warnings apply regardless of the kind of created plurality you are going f
 
 Put AT LEAST as much thought into this as you might for any major permanent life change.
 
-There are several communities dedicated to creating headmates and each have their own approach to it. The three main ones are <u>Daemonism</u>, <u>Soulbonding</u>, and <u>Tulpamancy</u>.
+There are several communities dedicated to creating partitioned bits of your mind/headmates and each have their own approach to it. The three main ones are <u>Daemonism</u>, <u>Soulbonding</u>, and <u>Tulpamancy</u>.
 
 Give them all a good look before you try them out.
 
@@ -34,7 +34,7 @@ Give them all a good look before you try them out.
 
 **Daemonism** is a practice surrounding conversing with a mental construct called a daemon based loosely on the *His Dark Materials* series written by Pullman that is used to personify some part of one's conscience as a means to recognize those parts of oneself better. A Daemon is usually depicted and imagined in the shape of an animal to line up with the HDM books.
 
-A daemon has autonomy that ranges from just a well-acted sockpuppet to a fully autonomous and separate entity on the level of any headmate. The philosophy is that everyone has a daemon already as a product of being human, they merely have to learn to listen to it through practice.
+A daemon has autonomy that ranges from just a well-acted sockpuppet imaginary friend to a fully autonomous and separate entity capable of switching and all on the level of any headmate. The philosophy is that everyone has a daemon already as a product of being human, they merely have to learn to listen to it through practice.
 
 Many daemians do not consider themselves plural, or only consider themselves to be resting on the edge just before plurality, as a note.
 
@@ -43,10 +43,10 @@ Learn more about daemonism at [The Daemonpage](https://daemonpage.com/)
 ---
 
 **Soulbonding** is a practice surrounding 'bonding' to a (usually) fictional entity and having them talk back to you.
-Soulbonding originated in a fanfiction writing community, and is thus strongly associated with such. It is a codified subculture surrounding the 'Living Character' phenomenon, which is frequently reported among creatives.
+Soulbonding originated in a fanfiction writing community, and is thus strongly associated with such. It is a codified subculture surrounding the 'Living Character' phenomenon, which is frequently reported among creatives of all stripes.
 
-One reaches out to an entity to talk, and may invite the entity back to their headspace (or the entity may come over unannounced).
-This often, but not always, has a spiritual lilt to it, though this is not required. Not all soulbonders consider themselves plural for being soulbonders, as not all soulbonders consider their soulbond to live within their mind/body and not all soulbonds are fully autonomous.
+One reaches out to an entity to talk, and may invite the entity back to their headspace (or the entity may arrive unannounced).
+This often, but not always, has a spiritual lilt to it. This view is not required, though. Not all soulbonders consider themselves plural for being soulbonders, as not all soulbonders consider their soulbond to live within their mind/body and not all soulbonds are fully autonomous.
 
 Soulbonding is an older community, and people specifically identifying as soulbonders are much less common nowadays with the prevalence of tulpamancy giving a more psychological framework and robust community alongside the concept of walk-ins in the general plural community catching a lot of the rest. However, soulbonders and soulbonding resources may still be found today.
 
@@ -54,7 +54,7 @@ Learn more about soulbonding from Swiftpaw's [Introduction to Soulbonding](https
 
 ---
 
-**Tulpamancy** is a (usually) psychological-oriented practice surrounding intentionally inducing plural experiences. A tulpamancer creates an autonomous separate entity called a tulpa and then teaches the tulpa to act autonomously in various ways.
+**Tulpamancy** is a (usually) psychological-oriented practice surrounding intentionally inducing plural experiences. A tulpamancer creates an autonomous separate entity called a tulpa and then teaches the tulpa system skills so they may grow and partake in life with the tulpamancer.
 
 Tulpamancy is by far the biggest created plurality community, and it has the most consistently robust guides on system skill building of any plural community period. They write the lion's share of system guides and the best quality ones on average.
 
