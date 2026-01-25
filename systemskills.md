@@ -56,10 +56,19 @@ If you go slow, pay attention, and track your wellbeing with system journaling, 
 
 With that out of the way;
 
-## System Skill Guides
+## System Skill Guide Masterlist:
 
-[WIP LIST]
+- [Communication 101](communication)
+- [Co-Consciousness]
+- [Headspace]
+- [Switching 101]
+- [Projection and Imposition]
+- [Elaboration and Personhood]
+- [Parallel Processing]
+- [Managing and Reducing Negative Symptoms]
+
 
 ## External Guides:
-kinhost
-the tulpanomicon + dragonheart systems/eeveecraft's tulpa guides
+
+- kinhost
+- the tulpanomicon + dragonheart systems/eeveecraft's tulpa guides
