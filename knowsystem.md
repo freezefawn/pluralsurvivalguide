@@ -4,7 +4,7 @@ Now that you know you're plural, its time to start getting to know your system.
 
 There is a lot of ground to cover here, and much of what you will be doing in these early stages you will be doing in some form over and over in your system journey as you discover more and more things about your plural experience.
 
-Much of this will involve learning some level of certain system skills detailed in [Improving & Establishing System Skills](systemskills) to aid in this and is as such intended to be a companion to this article.
+Much of this will involve learning some level of certain system skills detailed in [[Improving & Establishing System Skills](systemskills)] to aid in this and is as such intended to be a companion to this article.
 
 Some systems do this process with the help of a therapist, but it is **fully possible** to improve your experience without the oversight of the psychiatric industry or the use of psychiatric-approved techniques.
 
@@ -18,6 +18,7 @@ Your attitude going into this is fairly important.
 It is best to approach learning about your system with an open mind. Being open to things in your system being different from how you expect (or even better: avoiding having any strong expectations at all) can prevent you from missing important things about your experience.
 
 It is also a good idea to remember that your understanding of your system will likely change quite a bit over time. Everything from general headcount to disorder status to your theories and frameworks can change as you gain new perspective and grow and its important to not shy away from facing this fact.
+
 Many systems are deeply concerned with having the 'right' labels ASAP and never ever being seen as 'going back on' labels once declared -something that the current community culture does not help with in the slightest. This is deeply detrimental to your wellbeing and growth as a system. Learn to accept and be okay with your labels and understanding changing over time. Its not a betrayal or wrong or lying or anything else, its just you adjusting to new information at your disposal and discovering more about yourselves over time. You and your system will change over time and this is ok, everyone does.
 
 
@@ -30,12 +31,13 @@ To do this, first look at your experiences, can you pick out recurrent patterns 
 
 Writing down what things happen just before or during your system experiences that might be causing them as well as what those experiences are can help you find these patterns. Look for similar behaviors, triggers, and identity traits that could indicate different system members.
 
-NOTE: Some headmates (particularily those in more disorderly systems) will try to hide from you when/if they notice you are looking for them.
-This can look like anything from simply not seeing any signs of them for awhile to them actively messing with your memory of them, the concept of plurality, or the things they are doing. Try not to take this personally or take the temporary raido silence as a sign you aren't actually plural. This usually is a defense mechanism, not malice.
-Be patient, welcoming, and consistent, yes, even if they do seem to be doing this out of spite. Even headmates that do not like you deserve to be treated fairly.
-It may take awhile to confirm the presence of headmates that are resistant to being noticed in this manner. Again: **Be patient**. It may take weeks, it may take months, it may even take years.
-
 You can also communicate with them to ask them who is there and establish first contact, if that is available for you right away.
+
+**NOTE:** Some headmates (particularily those in more disorderly systems) will try to hide from you when/if they notice you are looking for them. This can look like anything from simply not seeing any signs of them for awhile to them actively messing with your memory of them, the concept of plurality, or the things they are doing. Try not to take this personally or take the temporary raido silence as a sign you aren't actually plural. This usually is a defense mechanism, not malice.
+
+Be patient, welcoming, and consistent, yes, even if they do seem to be doing this out of spite. Even headmates that do not like you deserve to be treated fairly.
+
+It may take awhile to confirm the presence of headmates that are resistant to being noticed in this manner. Again: **Be patient**. It may take weeks, it may take months, it may even take years.
 
 
 ## First Contact
