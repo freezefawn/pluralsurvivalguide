@@ -1,14 +1,12 @@
 # Getting To Know Your System
 
-Now you know that you are plural, its time to start getting to know your system.
+Now that you know you're plural, its time to start getting to know your system.
 
-This covers a lot of ground, and you will be likely doing some variation of these techniques over and over for a very long time- as many systems will be continually learning new things about their system throughout their lives.
+There is a lot of ground to cover here, and much of what you will be doing in these early stages you will be doing in some form over and over in your system journey as you discover more and more things about your plural experience.
 
-Much of this will involve learning some level of certain system skills detailed in [Improving & Establishing System Skills] to aid in this and is as such intended to be read in psuedo-tandem to it.
+Much of this will involve learning some level of certain system skills detailed in [Improving & Establishing System Skills] to aid in this and is as such intended to be a companion to this article.
 
-Some systems do this process with the help of a therapist, but it is **fully possible** to improve your experience without the oversight of the psychiatric industry.
-
-**FOR LEGAL REASONS:** The techniques to do this should not be taken as medical advice, rather as community wisdom. **This is NOT sanctioned by any medical oversight board.** You have been warned.
+Some systems do this process with the help of a therapist, but it is **fully possible** to improve your experience without the oversight of the psychiatric industry or the use of psychiatric-approved techniques.
 
 If you are intending to do this largely by youself(ves), we strongly recommend writing down all the information you learn about your plural experiences somewhere- as this can be very helpful in making sense of the patterns present, having records to fall back on, and combating memory issues.
 If you ever intend to go to therapy in the future, it also can be helpful to show them that your experiences have been going on for awhile. System journaling is touted everywhere for a reason.
