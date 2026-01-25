@@ -20,6 +20,7 @@ Some possible negative possibilities;
 You may also wish to read these external articles before deciding to become plural:
 - [A whole bunch of reasons to not create a tulpa](https://www.reddit.com/r/Tulpas/comments/4zmo8q/a_whole_bunch_of_reasons_to_not_create_a_tulpa/)
 - [Do not create your tulpa on day one](https://www.reddit.com/r/Tulpas/comments/4mxglc/do_not_create_your_tulpa_on_day_one/)
+- [The Genie Offering Plurality](https://beingmany.net/articles/questioning/the-genie-offering-plurality.html)
 
 These warnings apply regardless of the kind of created plurality you are going for.
 
