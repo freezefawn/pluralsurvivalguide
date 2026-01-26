@@ -54,6 +54,16 @@ You might be able to do them further along in your system journey- but it may ne
 
 If you go slow, pay attention, and track your wellbeing with system journaling, you can notice if these things occur more easily.
 
+## How To Build System Skills:
+
+**Practice is the name of the game** in learning skills. You practice whatever you want to get better at in order to strengthen that skill like you are exercising a muscle.
+
+And like if you are exercising a muscle, you need to **be careful not to overdo it** and tire yourselves out enough to require recovery time. Sometimes it cannot be helped, especially if your skills are very poor to start, but generally speaking you will want to stop practicing the skill BEFORE anyone involved starts to feel the strain in some form (generally a sense of mental tiredness, dissociation, or difficulty at continuing practicing the skill).
+
+The frequency of your practicing is also usually more important than the depth of it anyway, so its better to favor **quantity of sessions over quality of sessions**. Short frequent sessions are usually better than long intense ones as it minimizes recovery time and habit builds better.
+
+As you practice you will likely become familliar with the sensation of 'head pressure' which is a sort of pressure sensation in the head that is very commonly reported in people learning these skills. This is distinct from a headache in that it is a pressure sensation, not pain. Head pressure is favorable, feeling pain is not. Stop your practicing session if you are feeling pain.
+
 With that out of the way;
 
 ## System Skill Guide Masterlist:
