@@ -56,13 +56,15 @@ If you go slow, pay attention, and track your wellbeing with system journaling, 
 
 ## How To Build System Skills:
 
-**Practice is the name of the game** in learning skills. You practice whatever you want to get better at in order to strengthen that skill like you are exercising a muscle.
+**PRACTICE.** Thats it.
+
+No really, **practice is the name of the game** in learning skills. You practice whatever you want to get better at in order to strengthen that skill like you are exercising a muscle. There is no fast solution. Sorry.
 
 And like if you are exercising a muscle, you need to **be careful not to overdo it** and tire yourselves out enough to require recovery time. Sometimes it cannot be helped, especially if your skills are very poor to start, but generally speaking you will want to stop practicing the skill BEFORE anyone involved starts to feel the strain in some form (generally a sense of mental tiredness, dissociation, or difficulty at continuing practicing the skill).
 
-The frequency of your practicing is also usually more important than the depth of it anyway, so its better to favor **quantity of sessions over quality of sessions**. Short frequent sessions are usually better than long intense ones as it minimizes recovery time and habit builds better.
+The frequency of your practicing is usually more important than the depth of it anyway, so its better to favor **quantity of sessions over quality of sessions**. Short frequent sessions are usually better than long intense ones in most cases as it minimizes recovery time and habit builds better.
 
-As you practice you will likely become familliar with the sensation of 'head pressure' which is a sort of pressure sensation in the head that is very commonly reported in people learning these skills. This is distinct from a headache in that it is a pressure sensation, not pain. Head pressure is favorable, feeling pain is not. Stop your practicing session if you are feeling pain.
+As you practice you will likely become familliar with the sensation of **'head pressure'** which is a sort of pressure sensation in the head that is very commonly reported in people learning these skills. This is distinct from a headache in that it is a pressure sensation, not pain. **Head pressure is favorable, Headaches are not**. Stop your practicing session if you are feeling pain from it.
 
 With that out of the way;
 
