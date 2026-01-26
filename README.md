@@ -18,8 +18,6 @@ It is intended to be read both in a loose order dictated on the sidebar and by s
 
 This website contains advice, guides, and information that should not be taken as medical advice. This is NOT a medical resource or run by medical professionals and should not be treated as such, nor is it approved by any medical board. We are not legally liable for negative experiences that may result by following advice or guides stated here.
 
-You have been warned.
-
 ## About The Curator
 The Dragonheart Collective -also known as Dragon(s)- is a queer nonhuman multiple system.
 
@@ -33,6 +31,6 @@ Have a common problem or question you think should go in here?
 Have something useful that we haven't covered or linked to?
 Contact us at: geosynchronousaugury@gmail.com
 
-## Affiliates:
+---
 
-<a href="https://howlcon.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/Y37Pvjp/Howl-Con-Website-Button-Border.gif" alt="HowlCon website button" border="0"></a> | [Our Main Website](https://dragonsroost.neocities.org/)
+<a href="https://howlcon.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://i.ibb.co/Y37Pvjp/Howl-Con-Website-Button-Border.gif" alt="HowlCon website button" border="0"></a> <a href="https://dragonsroost.neocities.org/"><img src="https://image.acg.lol/file/2026/01/27/88dr.png" alt="88dr" border="0"></a>
