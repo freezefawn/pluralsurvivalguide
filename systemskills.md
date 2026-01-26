@@ -18,7 +18,7 @@ If this sounds like tulpamancy practices to you- well it pretty much it is! Tulp
 
 This principle can be applied regardless of your origin theory or disorder status.
 
-Professional help for systems will usually take a different but still somewhat similar route to tulpamancy and this guide. Instead of encouraging separateness, the medical 'party line' is integration of the system into one unified person. Its still practicing neural pathways, just in the direction of learning singlethood over plurality.
+Professional help for systems will usually take a different but still somewhat similar route to most of the resources in this guide. Instead of encouraging separateness, the medical 'party line' is integration of the system into one unified person. Its still practicing neural pathways, just in the direction of learning singlethood over plurality.
 
 
 ## Disclaimer In the Interest of Informed Consent
@@ -30,13 +30,13 @@ In following these guides, you are DIY messing with your neural pathways in a wa
 We are all boldly wading into murky water and sharing what works. This is back-alley brainhacking, not medical help.
 
 THIS IS NOT ENDORSED BY ANY THERAPEUTIC INSTITUTION OR CERTIFIED INDIVIDUAL AND DOES NOT PRETEND TO BE.
-BY BEING IN FAVOR OF HEALTHY MULTIPLICITY THIS GUIDE IS INHERENTLY CONTRARY TO THE OFFICAL STANCE OF THE ISSD
+BY BEING IN FAVOR OF HEALTHY MULTIPLICITY THIS GUIDE IS INHERENTLY CONTRARY TO THE OFFICAL STANCE OF THE ISSTD
 
 Most people who do things like this have neutral to positive experiences and acquire some benefit, but some people may instead get a increase in negative symptoms.
 
 In particular, some people with CDDs creating new headmates find that this can cause their system to destabilize and split more frequently, and some people with experiences of psychosis trying to learn imposition have have found that this can cause an increase in uncontrolled hallucinations. This is not all negative reports, however.
 
-Doing many these techniques also tends to make you 'more plural' so if you are working towards Final Fusion with a therapist, many these guides may be counterproductive.
+Doing many of these techniques also tends to make you 'more plural' so if you are working towards Final Fusion with a therapist, these guides may be counterproductive.
 
 You have been warned.
 
@@ -68,7 +68,8 @@ With that out of the way;
 - [Managing and Reducing Negative Symptoms]
 
 
-## External Guides:
+## External Resources:
 
 - kinhost
 - the tulpanomicon + dragonheart systems/eeveecraft's tulpa guides
+- being many.net
