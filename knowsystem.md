@@ -42,7 +42,7 @@ It may take awhile to confirm the presence of headmates that are resistant to be
 
 ## First Contact
 
-At some point you are going to need to establish contact to help aid in working together if you are not in contact already. To do this, refer to our guide, (communication)[Communication 101].
+At some point you are going to need to establish contact to help aid in working together if you are not in contact already. To do this, refer to our guide, [Communication 101](communication).
 
 REMEMBER: They are ALSO often learning that they are not alone in THIER head during this time. That sort of thing is for many, quite scary and emotionally destabilizing.
 Try to be understanding of unusual or rude behavior. The exestential discomfort can cause a lot of stress and can make one lash out. Its a major adjustment period to get used to the idea of being plural, so its important give them grace as they sort through the emotions that this causes. You would want the same, no?
@@ -67,8 +67,10 @@ There is no wrong way to be plural!
 
 ## Getting your system all on the same page
 
-This can be difficult! Ensuring that everyone you [WIP SECTION]
+This can be difficult, and goes in tandem with establishing rapport with your headmates.
 
-Further reading:
+
+
+## Further reading:
 
 Is That a New Guy or Am I Losing My Mind; or, A Beginner's Guide to Finding Headmates  https://draconicwizardworkshop.neocities.org/html/writings/camden/finding_headmates.pdf
