@@ -14,14 +14,13 @@ System communication can happen in a number of different ways, an incomplete lis
 - **Inner world** - communicating by having to go to one's inner world first.
 - **Imposition and projection** - in which a headmate 'projects' themselves or you 'project' them onto your real life surroundings. With projection is is simply an overlaid 'mind's eye' situation, but for Imposition the goal is to actively induce a hallucination and literally see/feel/hear/etc the headmate.
 - **Hallucinations** - systems that have unusual sensory experiences may have a headmate using hallucinations to communicate in some way. The headmate speaking audibly instead of internally is one common example of this. Different from imposition in that the hallucinations are not necessarily the headmate specifically, but rather something they are inducing (ex, sending a hallucination of a spider by your hand to indicate they are not happy with something you said to them, but they themselves are not the spider).
+- **Retrospectively referencing memories** - communicating via thinking back on/referencing memories of the things the previous fronter thought and said when they were at front and then thinking thoughts for them to peruse when they return to front later.
 
-**Meatspace Communication**- Communication that involves interfacing with things in the real world
-- **External talking** - communication by way of speaking out loud so that others in the system may respond in some way. Often mixed with other kinds of communication (ex, one speaking internally one externally, switching or co fronting to take turns speaking)
+**Meatspace Communication**- Communication that involves interfacing with things in the real world.
+- **External talking** - communication by way of speaking out loud so that others in the system may respond in some way. Often mixed with other kinds of communication (ex, one speaking internally one externally, switching or co fronting to take turns speaking).
 - **Passing notes** - communication by way of writing something down externally. May have immediate response or may be checked and responded to next time the desired recipient fronts.
-- **Third party communication** - communicating with a trusted third party who may then in turn pass this message to the next fronter
-- **Retrospectively referencing memories** - communicating via thinking back on/referencing memories of the things the previous fronter thought and said when they were at front and then thinking thoughts for them to peruse when they return to front later
-- **Co-fronting and partial possession** - using control of the body as a medium to communicate. (ex, only being able to internally communicate when co-fronting, partially controlling the body to use body gestures to communicate)
-
+- **Third party communication** - communicating with a trusted third party who may then in turn pass this message to the next fronter.
+- **Co-fronting and partial possession** - using control of the body as a medium to communicate (ex, only being able to internally communicate when co-fronting, partially controlling the body to use body gestures to communicate).
 
 Many systems will use a combination of these methods, or one system member may use one, and one may use another.
 
@@ -48,7 +47,9 @@ Many systems are capable of standard internal communication right off the bat, s
 
 ### Internal Communication Test
 
-Think into your mind a greeting, who you are, and a simple question that is hard to get a 'junk' random thought response for (not a yes/no question). Asking for a name is a good example. Try to push this question at your headmate, and then try to 'step back' to listen for a response.
+First, get comfortable somewhere you will not be disturbed. You want to be able to mostly be paying attention to inside stuff for a bit, so try not to be doing anything that it would be dangerous to be distracted for.
+
+Think into your mind(or out loud, if you feel that would be easier) a greeting, who you are, and a simple question that is hard to get a 'junk' random thought response for (not a yes/no question). Asking for a name is a good example. Try to 'push' this message at your headmate, and then try to 'step back' to listen for a response.
 
 This stepping back is less 'thinking of nothing' and more not trying to control the direction of the thoughts within the internal narrative so hard.
 
@@ -67,5 +68,16 @@ If you cannot talk reliably internally, the most base level of communication is 
 If you KNOW you have a headmate that keeps fronting, and you just cannot talk to them inside, try writing a note somewhere they will come across it (but ideally other bodies will not). If you know they keep fronting for certain things, you can try leaving it in that sort of space. Leaving it visible in items that are commonly used for daily life (such as a wallet, computer desktop, journal, or phone) is also a good option.
 
 You will need patience, but this is a reliable fallback option even if you have total blackouts and zero other communication abilities.
+
+## Learning Internal Communication
+
+If you cannot do it first thing, then you will need to build the skill manually.
+
+### Learning how to listen
+### Practicing talking
+### Inner world method
+### Imposition and Projection section
+
+## External Guides:
 
 WIP WIP WIP
