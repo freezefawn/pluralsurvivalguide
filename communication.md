@@ -71,12 +71,35 @@ You will need patience, but this is a reliable fallback option even if you have 
 
 ## Learning Internal Communication
 
-If you cannot do it first thing, then you will need to build the skill manually.
+If you cannot do it first thing, then you will need to build the skill manually if you wish to have it.
 
 ### Learning how to listen
+
+WIP WIP WIP
+
+The concept of intentionality and 'you-ness'- deliberately having a thought versus thoughts just sort of happening in there, ascribing your youness to a thought versus not doing that.
+
+in order to learn how to listen you have to stop having all your aggressively you and high in intentionality thoughts everywhere. Learn to let thoughts not be constrolled and deliberate. Meditation, you want a state similar to just before sleep when your thoughts arent really in your deliberate control.
+
+Practice this state in small incriments when comfortable. learn how to 'step back' quickly at will. YOu may struggle wit hthis.
+
+This state makes it easier to hear headmates, as you arent taking up as much space and dont need to be muscled out of the way for them to talk.
+
 ### Practicing talking
+
+nararation internally practice.
+not everyone thinks in words, it doesnt need to be in words. practice just talking, then practice talking in a direction, then practice switching between talking and the listen
+
 ### Inner world method
+
+Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
+you might only be able to reliably communicate in a more in depth sort of meditative state like this.
+
+inner world 101 section link here.
+
 ### Imposition and Projection section
+
+communication through this will be covered in the imposition and projection guide.
 
 ## External Guides:
 
