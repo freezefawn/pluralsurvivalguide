@@ -78,7 +78,7 @@ If you cannot do it first thing, or you want to improve what you can do to a bet
 In order to communicate, first you should practice talking.
 As you go about your day, try mentally narrarating comments about the things you are doing to those in your system. It doesn't nessesarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
 
-Eventually start adding pauses in case anyone wants to speak up, or questions to respond to.
+Eventually start adding pauses and questions as spaces for someone to respond.
 
 ### How To Listen
 
@@ -94,6 +94,8 @@ This state makes it easier to hear headmates, as you arent taking up as much spa
 
 ### Inner world use
 
+WIP WIP WIP
+
 Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
 you might only be able to reliably communicate in a more in depth sort of meditative state like this.
 
@@ -101,11 +103,11 @@ inner world 101 section link here.
 
 ## The fancy stuff
 
-the less standard stuff.
+the less standard stuff. WIP
 
 ### Imposition and Projection section
 
-communication through this will be covered in the imposition and projection guide.
+communication through this will be covered in the imposition and projection guide. WIP
 
 ## External Guides:
 
