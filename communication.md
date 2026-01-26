@@ -69,11 +69,18 @@ If you KNOW you have a headmate that keeps fronting, and you just cannot talk to
 
 You will need patience, but this is a reliable fallback option even if you have total blackouts and zero other communication abilities.
 
-## Learning Internal Communication
+## Internal Communication Basics
 
-If you cannot do it first thing, then you will need to build the skill manually if you wish to have it.
+If you cannot do it first thing, or you want to improve what you can do to a better standard, then you will need to build the skill manually. Heres the basic standard internal communication tutorial.
 
-### Learning how to listen
+### Talking
+
+In order to communicate, first you should practice talking.
+As you go about your day, try mentally narrarating comments about the things you are doing to those in your system. It doesn't nessesarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
+
+Eventually start adding pauses in case anyone wants to speak up, or questions to respond to.
+
+### How To Listen
 
 WIP WIP WIP
 
@@ -85,17 +92,16 @@ Practice this state in small incriments when comfortable. learn how to 'step bac
 
 This state makes it easier to hear headmates, as you arent taking up as much space and dont need to be muscled out of the way for them to talk.
 
-### Practicing talking
-
-nararation internally practice.
-not everyone thinks in words, it doesnt need to be in words. practice just talking, then practice talking in a direction, then practice switching between talking and the listen
-
-### Inner world method
+### Inner world use
 
 Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
 you might only be able to reliably communicate in a more in depth sort of meditative state like this.
 
 inner world 101 section link here.
+
+## The fancy stuff
+
+the less standard stuff.
 
 ### Imposition and Projection section
 
