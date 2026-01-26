@@ -64,13 +64,6 @@ The medical community (and most of society really) pushes the parts view aggress
 
 There is no wrong way to be plural!
 
-
-## Getting your system all on the same page
-
-This can be difficult, and goes in tandem with establishing rapport with your headmates.
-
-
-
 ## Further reading:
 
 Is That a New Guy or Am I Losing My Mind; or, A Beginner's Guide to Finding Headmates  https://draconicwizardworkshop.neocities.org/html/writings/camden/finding_headmates.pdf
