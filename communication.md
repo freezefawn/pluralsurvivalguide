@@ -71,26 +71,68 @@ You will need patience, but this is a reliable fallback option even if you have 
 
 ## Internal Communication Basics
 
-If you cannot do it first thing, or you want to improve what you can do to a better standard, then you will need to build the skill manually. Heres the basic standard internal communication tutorial.
+If you cannot do it first thing, or you want to improve what you can do to a better standard, then you will need to build the skill manually.
 
-### Talking
+There are several parts to internal communication that can be worked on together or individually.
 
-In order to communicate, first you should practice talking.
-As you go about your day, try mentally narrarating comments about the things you are doing to those in your system. It doesn't nessesarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
+### Speaking Up From The Front
 
-Eventually start adding pauses and questions as spaces for someone to respond.
+In order to communicate, you have to say things. So therefore, first you should practice talking to your headmates with regularity.
+
+As you go about your day, try mentally narrarating comments periodically about the things you are doing to those in your system. It doesn't nessesarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
+
+It helps to believe very strongly that they can hear you, as belief that something can happen is a powerful force that pulls a lot of weight with system experiences.
+
+It can also help to mentally picture the concept of the headmate you are trying to speak to, rather than just doing this directionlessly. Eventually you should start adding pauses and questions as spaces for someone to respond.
+
+If you need to work on making contact, this is a good first step. Its also useful to practice this if you can internally communicate, but you forget to do it regularily as it can instill the habit of checking in more often.
 
 ### How To Listen
 
+Talk is fairly easy, but learning how to listen is hard, especially because many people have misconceptions about what it looks like.
+
+If you have trouble hearing reliable responses (or responses at all) practicing how to listen can help with this.
+
+#### Intentionality and Ownership
+
+One important concept that the writers of this guide find to explaining what is nessesary to properly listen without drowning out headmates with your own thoughts is the concept of Intentionality and Ownership.
+
+Intentionality of thought is when a thought is deliberately made. Stray 'junk thoughts' that just sort of kneejerk from nowhere and are usually nonsensical lack intentionality. For example when you look into the fridge and see you are nearly out of eggs and you consciously think to yourself 'ok, I need to buy eggs' this is an intentional thought. When your headmate communicates with you this is also an intentional thought. You can feel the thought forming and the conscious intention of it, however it lacks your ownership.
+
+Ownership, in turn, is your sense of ownership over that thought. It feels like you thought it, you ascribe your sense of self to that thought.
+
+Thoughts inside your head have various levels of your intentionality and ownership, and the goal in learning how to listen is to consciously reduce the thoughts that have BOTH your intetionality and your sense of ownership a little temporarily so there is room for your headmate to speak.
+
+#### Stepping Back
+
 WIP WIP WIP
 
-The concept of intentionality and 'you-ness'- deliberately having a thought versus thoughts just sort of happening in there, ascribing your youness to a thought versus not doing that.
+Reducing intetionality and ownership is hard, but can be practiced. Learning to not control all the thoughts that happen within your head so hard is something that can be acheived through things like meditation.
 
-in order to learn how to listen you have to stop having all your aggressively you and high in intentionality thoughts everywhere. Learn to let thoughts not be constrolled and deliberate. Meditation, you want a state similar to just before sleep when your thoughts arent really in your deliberate control.
+Meditation is a altered state of consciousness 
+
+- what is meditation
+- the disclaimer about meditation fucking ur brain up sometimes
+- kinds of meditation and the kind that is most useful for this and least risky
+- practice in small incriments frequently once you know if tis safe for you until you can call up the stepping back state at will
+- this state makes it easier to hear headmates, you ask your question, you step back and see if they will speak, then you alk again
+
+Meditation can be frought for many systems, as plural folks are disporportionately dissociative in such a way that meditation can cause serious negative effects. It is worth being careful, paying attention to your symptoms and body, and at first only trying it when you do not need to be alert for awhile after.
+
+
+Meditation, you want a state similar to just before sleep when your thoughts arent really in your deliberate control.
 
 Practice this state in small incriments when comfortable. learn how to 'step back' quickly at will. YOu may struggle wit hthis.
 
 This state makes it easier to hear headmates, as you arent taking up as much space and dont need to be muscled out of the way for them to talk.
+
+From the other side, those who have trouble talking from the back have to build the mental strength to speak up. That is, they have to practice talking too. If you can communicate some already, then those in the back need to exercise this skill too.
+
+strengthening your headmate's voice
+- your headmates have to build the mental strength to speak up
+- as in they have to practice talking. This can tire them out a lot at first. start small and practice frequently to build their stamina for talking
+- your headmate has to want it and you need to be able to give them the space to want it
+
 
 ### Inner world use
 
