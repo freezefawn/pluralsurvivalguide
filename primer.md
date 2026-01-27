@@ -33,7 +33,7 @@ The plural experience is highly varied, and one system's experience can be wildl
 
 There are things that are common, just as switching control of the body, having memory or perspective weirdness when you aren’t ‘at the wheel’, or being able to communicate mentally, but these aren't guaranteed either.
 Many people will also describe similar experiences in different ways because they have different frameworks they are using.
-Some systems are more indistinct and the those in them are blurry, and others are very separate. Some systems have a lot of dysfunction, others have very little or none. Some systems consider themselves all separate people, others consider themselves all states of the same person.
+Some systems are more indistinct and those in them blur together, and others are very separate. Some systems have a lot of dysfunction, others have very little or none. Some systems consider themselves all separate people, others consider themselves all states or parts of the same person.
 
 The only thing we all share is being 'more than one'.
 
@@ -44,7 +44,7 @@ Trauma is a very common narrative- particularly in those who are disorderly in p
 ## Common Myths:
 **"In order to be plural you must have experienced severe repeated trauma, usually sexual abuse, before a specific cutoff age."**
 
-There is no requirement for trauma -much les a specific kind of trauma- to identify as plural or be diagnosed with a dissociative disorder.
+There is no requirement for trauma -much less a specific kind of trauma- to identify as plural or be diagnosed with a dissociative disorder.
 Trauma is very common, but not required.
 There are strong theories that frequent adverse childhood experiences is what may lead to specific kinds of plurality, but these theories are not proven to be the _only_ way plurality can be caused.
 Many people self-report no trauma history, or having been plural prior to their trauma history. In particular, Tulpamancers show that its possible to intentionally cause it in at least a portion of the population in adulthood.
@@ -76,12 +76,12 @@ Not all systems want integration and autonomy should be respected no matter the 
 Not only does the DSM and ICD that this thinking worships flat out disagree in multiple ways, but using these manuals, and to that extent an industry that abuses and ignores the voices of the neurodiverse quite often, as the end-all-be-all of experience isn't a good look.
 This sort of thinking has grown more and more common in certain corners of the internet, and it is still wrong. Respectability politics historically do not solve problems.
 
-**"Headmates are never separate people, and are just dissociated bits of emotion."**
+**"System members are never separate people, and are just dissociated bits of emotion."**
 
-Some headmates are indeed their own separate people if they wish to claim the term. Even stereotypical 'fragments' have the potential to become full people.
+Some system members are indeed their own separate people if they wish to claim the term. Even stereotypical 'fragments' have the potential to become full people.
 Respecting the personhood of others is a fairly basic measure of kindness, and treating someone as Not A Person by default is mathematically more possible harm than treating an entity that might not be a person as a person.
 If you treat an entity that may or may not be a person like a person, at worst you look silly(neutral) and at best you affirm their personhood(positive). If you treat that entity as NOT like a person, then at best you have guessed correctly(neutral), and at worse you are contributing to their dehumanization(negative).
-If a headmate says they are a separate person- ergo it is the best choice to simply believe them and treat them as such.
+If a headmate says they are a separate person- it is therefore the best choice to simply believe them and treat them as such.
 
 ## Common Rude Questions:
 There are a lot of questions that are really rude to ask a plural person, either because they are very invasive or come off as dehumanizing. Never fear, this quite will answer them for you!
@@ -130,3 +130,4 @@ Can you prove you’re singlet?
 - [Morethanone.info](https://morethanone.info/)
 - [Plurality Playbook](https://freyasspirit.com/plurality-playbook/)
 - [The Layman's Guide](http://www.karitas.net/blackbirds/layman/) (slightly outdated)
+- [What Is Plurality?](https://beingmany.net/articles/basics/what-is-plurality%3f.html)
