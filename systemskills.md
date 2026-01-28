@@ -80,8 +80,9 @@ With that out of the way;
 - [Managing and Reducing Negative Symptoms]
 
 
-## External Resources:
+## External Self Help Guides:
 
-- kinhost
-- the tulpanomicon + dragonheart systems/eeveecraft's tulpa guides
-- being many.net
+- [Kinhost](https://kinhost.org/)
+- [Being Many](https://beingmany.net/)
+- [The Tulpanomicon](https://tulpanomicon.guide/)
+- [Tulpamancy: Into The Strange And Wonderful](https://docs.google.com/document/u/0/d/1mSaPARuohFEO7qX3gVgKAh69XwU0VlKwnD0I_-nddvk/mobilebasic#id.x8zbeve9dicb)
