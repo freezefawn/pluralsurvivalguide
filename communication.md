@@ -8,7 +8,7 @@ System communication can happen in a number of different ways, an incomplete lis
 
 **Internal Communication**- This is what is usually meant when people talk about system communication, as its the kind of communication that tends to be most desired in systems. It is communication that happens 'inside' the mind without external agents involved. Some common kinds of internal communication include but are not limited to;
 - **Dream communication** - communication with headmates through dreams/while sleeping, lucid or otherwise.
-- **Tulpish** - also called mentalese or conceptual communication. Raw thought without coherent words but full understanding, simply Knowing what the other party intended to convey.
+- **Conceptual communication** - also called mentalese or tulpish. Raw thought without coherent words but full understanding, simply Knowing what the other party intended to convey.
 - **Feelings and sensations** - somatic sensations and bursts of emotion used to communicate. Examples include a headmate intentionally inducing a sensation like headpressure as a response, or causing the body to experience a strong emotion like happiness or fear. Distinct from raw thought in that it is not inherently understood.
 - **'Verbal' thought communication** - thinking in coherent words within the internal narrative to one annother. May include having a specific verbal voice or 'flavor' to the voice. This is the 'main' and most prized kind of internal communication among many systems.
 - **Inner world** - communicating by having to go to one's inner world first.
@@ -33,6 +33,22 @@ Internal communication however, can be tricky, especially the much-desired verba
 Its a skill that many systems have difficulty with especially due to dissociative barriers common to many plural folks. It is, however, like all system skills; something that can be improved through work for most systems.
 
 There are various techniques to practice for all of these kinds of communication, though this guide will focus on only a few of the most common and generally preferred options.
+
+### A Note On Misconceptions
+
+One thing that a lot of systems struggle with isn't the skill itself exactly, but the idea of what internal communication actually looks and feels like.
+
+People have very grand ideas of what system activity looks like, and while this is true for *some* systems (especially after years of practice with these skills), in many cases it is much more subtle than people think. You have to truly learn that not every thought that happens in your brain is yours and practice how to discern that.
+
+System communication often feels like regular thoughts, usually, but they just don't fully feel like *your* thoughts. Noticing that, and even encouraging that lack of identification as yours to help recognize your headmate's speech is not always automatic and often needs to be learned.
+
+Members of systems have to practice 'sounding' different and 'feeling' different when they communicate(if they can or want to achieve this at all), and many systems will find that being tired or stressed means they do not always add on the identification bits in this fashion when they speak up. It is simply not the case that headmate internal communication will always be in a distinct different headvoice and always feel unmistakably foreign.
+
+Because they feel pretty much like regular thoughts and happen in your regular thought train, most systems will find that they simply cannot think separate thoughts at the same time as their headmate, as well.
+
+You all exist in the same brain, and this means you have to all share the same resources- such as space in the internal narrative. Some systems may have or can train abilities that *appear* to allow one to think complex thoughts at the same time as other headmates also doing this, but the science of this actually being the case is HIGHLY controversial.
+
+Really, in most cases, internal communication is just significantly more covert and mundane than some people expect.
 
 ## Establishing Communication
 
@@ -79,69 +95,117 @@ There are several parts to internal communication that can be worked on together
 
 In order to communicate, you have to say things. So therefore, first you should practice talking to your headmates with regularity.
 
-As you go about your day, try mentally narrarating comments periodically about the things you are doing to those in your system. It doesn't nessesarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
+To reiterate: **The number one way to build connections in your system and strengthen your headmates is to talk to them!**
+
+As you go about your day, try mentally narrating comments periodically about the things you are doing to those in your system. It doesn't necessarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
 
 It helps to believe very strongly that they can hear you, as belief that something can happen is a powerful force that pulls a lot of weight with system experiences.
 
-It can also help to mentally picture the concept of the headmate you are trying to speak to, rather than just doing this directionlessly. Eventually you should start adding pauses and questions as spaces for someone to respond.
+It can also help quite a lot to mentally picture the concept of the headmate you are trying to speak to, rather than just doing this directionlessly. Imagine they are there and can hear you as you do. Eventually you should start adding pauses and questions as spaces for someone to respond.
 
-If you need to work on making contact, this is a good first step. Its also useful to practice this if you can internally communicate, but you forget to do it regularily as it can instill the habit of checking in more often.
+If you need to work on making contact, this is a good first step. Its also useful to deliberately practice this if you can internally communicate, but you forget to do it regularly as it can instill the habit of checking in more often.
 
 ### How To Listen
 
-Talk is fairly easy, but learning how to listen is hard, especially because many people have misconceptions about what it looks like.
+Talking is fairly easy, but learning how to listen can be hard, especially because many people have misconceptions about what it looks like.
 
 If you have trouble hearing reliable responses (or responses at all) practicing how to listen can help with this.
 
 #### Intentionality and Ownership
 
-One important concept that the writers of this guide find to explaining what is nessesary to properly listen without drowning out headmates with your own thoughts is the concept of Intentionality and Ownership.
+One important concept that the writers of this guide find to explaining what is necessary to properly listen without drowning out headmates with your own thoughts is the concept of Intentionality and Ownership.
 
-Intentionality of thought is when a thought is deliberately made. Stray 'junk thoughts' that just sort of kneejerk from nowhere and are usually nonsensical lack intentionality. For example when you look into the fridge and see you are nearly out of eggs and you consciously think to yourself 'ok, I need to buy eggs' this is an intentional thought. When your headmate communicates with you this is also an intentional thought. You can feel the thought forming and the conscious intention of it, however it lacks your ownership.
+Intentionality of thought is when a thought is very deliberately made. Stray 'junk thoughts' that just sort of kneejerk from nowhere and are usually nonsensical lack intentionality. For example when you look into the fridge and see you are nearly out of eggs and you consciously think to yourself and override anything else in your head with 'ok, I need to buy eggs' this is an intentional thought. When your headmate communicates with you this is also an intentional thought. You can feel the thought forming and the conscious intention of it, however it lacks *your* ownership.
 
 Ownership, in turn, is your sense of ownership over that thought. It feels like you thought it, you ascribe your sense of self to that thought.
 
-Thoughts inside your head have various levels of your intentionality and ownership, and the goal in learning how to listen is to consciously reduce the thoughts that have BOTH your intetionality and your sense of ownership a little temporarily so there is room for your headmate to speak.
+Thoughts inside your head have various levels of your intentionality and ownership, and the goal in learning how to listen is to be able to temporarily reduce the thoughts that have a strong sense of BOTH your intentionality and your sense of ownership a little so there is more room for your headmate to speak.
 
 #### Stepping Back
 
-WIP WIP WIP
+If you are used to having an iron grip on your thoughts, it can be hard to step back in this fashion. Learning to not control all the thoughts that happen within your head however is a skill that can be trained, particularly through the use of meditation.
 
-Reducing intetionality and ownership is hard, but can be practiced. Learning to not control all the thoughts that happen within your head so hard is something that can be acheived through things like meditation.
+Meditation is a mildly altered state of consciousness that is used for a great many things and there are a large variety of techniques and flavors of it to achieve said things. For our purposes, meditation is being used to get into a particular mind state of being more mentally passive than you generally are.
 
-Meditation is a altered state of consciousness 
+IMPORTANT: Meditation can be fraught for many systems, as plural folks are disproportionately dissociative and traumatized in such a way that many kinds of meditation can cause serious negative effects such as increased dissociation, flashbacks, panic attacks, and other mental distress.
+It is worth being careful, paying attention to your symptoms and body, and at first only trying it when you do not need to be alert for awhile after.
 
-- what is meditation
-- the disclaimer about meditation fucking ur brain up sometimes
-- kinds of meditation and the kind that is most useful for this and least risky
-- practice in small incriments frequently once you know if tis safe for you until you can call up the stepping back state at will
-- this state makes it easier to hear headmates, you ask your question, you step back and see if they will speak, then you alk again
+If you experience negative effects when you try meditation there are resources for you:
+- [Meditation Safety Toolbox](https://sites.brown.edu/britton/resources/meditation-safety-toolbox/)
+- [Cheetah House](https://www.cheetahhouse.org/)
 
-Meditation can be frought for many systems, as plural folks are disporportionately dissociative in such a way that meditation can cause serious negative effects. It is worth being careful, paying attention to your symptoms and body, and at first only trying it when you do not need to be alert for awhile after.
+The flavor of meditation that is most useful for learning to listen to your headmates in this fashion is one where you learn to be a passive observer of your own thoughts for a bit.
 
+##### Quick 'n Dirty Passive Observation Meditation
 
-Meditation, you want a state similar to just before sleep when your thoughts arent really in your deliberate control.
+This is the meditation exercise the makers of this guide have found to be the most helpful for this purpose and minimally risky.
 
-Practice this state in small incriments when comfortable. learn how to 'step back' quickly at will. YOu may struggle wit hthis.
+First, you need a comfortable spot to set for a bit and a good chunk of time in which you will not be disturbed or be expected to do anything important.
 
-This state makes it easier to hear headmates, as you arent taking up as much space and dont need to be muscled out of the way for them to talk.
+While the exercise itself will take 5-15 mins (5 mins is a good starting time, consider starting a timer to not go overboard), it may be best to reserve up to an hour in which nothing important will happen until you know how meditation effects you.
 
-From the other side, those who have trouble talking from the back have to build the mental strength to speak up. That is, they have to practice talking too. If you can communicate some already, then those in the back need to exercise this skill too.
+You can also try this technique just before bed, as you are already relaxed and you will not be expected to do anything for a good number of hours. This state is also useful for helping fall asleep for many people, so it serves a dual purpose.
 
-strengthening your headmate's voice
-- your headmates have to build the mental strength to speak up
-- as in they have to practice talking. This can tire them out a lot at first. start small and practice frequently to build their stamina for talking
-- your headmate has to want it and you need to be able to give them the space to want it
+Once you are comfortable in whatever position you want, you are just going to try to not deliberately think anything. You aren't trying to have *no* thoughts, but rather not think of anything purposefully in particular. Hold your thoughts like they are alive, you are observing, not forcing or deliberately engaging.
+If you do this correctly, what will be left are mostly 'junk thoughts' that are barely coherent at best flicking around that you are not consciously thinking. You may also hear headmate chatter already, which will feel like relatively coherent thinking, but not thinking that *you* did. Intentionality without your ownership.
 
+You may find usefulness in listening to music while you meditate, or listen to a guided meditation that also has the same goal of passive observation of thought. Fair warning that guided meditation is a bit more risky in terms of potentially triggering an issue.
 
-### Inner world use
+The goal is to be able to hold this state for a good few seconds and to be able to call on it relatively quickly at will. You do not need to hold this passive observer state for the whole 5 minutes or anything, just a few seconds will do for the purposes of being able to step back to hear.
+It will likely take a number of sessions to do this, and some people will struggle more than others.
 
-WIP WIP WIP
+When your practice time is up thats all the session you will do for the day. Check in with yourself after. Are you dissociated? Jumpy? Do you feel worse or just a little weird in a way that passes fairly quickly as you move around and pay attention tot he world around you again. If you feel marketedly worse after trying and simple grounding techniques are not working, meditation may not be for you at this point in time.
 
-Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
-you might only be able to reliably communicate in a more in depth sort of meditative state like this.
+...And thats it!
+Practice in this in small increments until you can step back comfortably at will to converse.
 
-inner world 101 section link here.
+When you can step back to some level at will, try talking to your headmates then do so when waiting for a response.
+
+This state makes it easier to hear headmates, as you aren't taking up as much space and dont need to be muscled out of the way.
+
+##### Avoiding Listening Too Hard
+
+Its a very paradoxial problem, but it is very much possible (and even common in newbies) that attempts to listen for headmates can end up quashing their voices instead.
+
+If your attempts at communication as listed above have been going on for awhile and not been bearing any fruit, its worth trying to ascertain if this is happening.
+
+You might find that stopping and stepping back that much to be counterproductive to listening for your system. If you are unable to discern quickly/easily if a given intentional thought has your ownership or not and hold back *only* the intentional thoughts that feel like you, then it may be best to not take the previously stated approach.
+
+Instead, meditation exercises that are merely for just being aware of thoughts in your mind without trying to reduce your conscious thoughts may be more effective at letting you hear your headmates, especially at first.
+
+### Getting Their Attention
+
+Maybe you can do the techniques, but you have a hard time making your headmates aware of you. This is the section to help with that.
+
+#### Front Pulls And Triggers
+
+Front pulls and triggers are stimuli that bring headmates towards the front, with triggers having the connotation of something more automatic and negative. If your system struggles with co-consciousness, you may need to try to induce that headmate coming to front to some level to communicate with them, especially at first.
+
+Look back on the things that have caused headmate activity before (ideally things that were neutral to pleasant rather than things that seem to cause them distress) and try to do those things to try to tempt them to come forward. (listening to music, doing certain hobbies, going to certain places, wearing certain clothes, etc)
+
+As they start to come to awareness, try doing the communication test again, it might be easier to interact with them.
+
+#### Signatures
+
+One technique for identification and visualization in this manner is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
+
+With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
+
+### Speaking Up From The Back
+
+From the other side, those who have trouble talking from the back have to build the mental strength to speak up. That is, they have to practice talking as well in order to get better at it.
+
+Those of you who aren't fronting? You have to want it too. You have to take the space that you want to have, you have to strengthen yourself so that you can have the skill you wish.
+
+At first it will be difficult and tiring. You may have a hard time getting your words across and using the thought train to think and speak at first- and that at first may take a very long time. Start small and practice frequently to build stamina, but eventually there will be results.
+
+### Inner World Use
+
+One can also use the inner world to communicate if a given system needs a more involved experience to interact properly.
+
+If you can only internally communicate through the inner world, it may be advantageous to have daily meetings in the inner world to check in and converse with whoever is at front.
+
+Read the [Headspace] article to learn more on how to build, access, and utilize an inner world.
 
 ## The fancy stuff
 
@@ -153,4 +217,4 @@ communication through this will be covered in the imposition and projection guid
 
 ## External Guides:
 
-WIP WIP WIP
+https://feastingwithghosts.com/creations/essays/plurality/internalsignatures
