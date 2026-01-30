@@ -34,25 +34,29 @@ Its a skill that many systems have difficulty with especially due to dissociativ
 
 There are various techniques to practice for all of these kinds of communication, though this guide will focus on only a few of the most common and generally preferred options.
 
-### A Note On Misconceptions
+### Mental Framing
 
 One thing that a lot of systems struggle with isn't the skill itself exactly, but the idea of what internal communication actually looks and feels like.
 
-People have very grand ideas of what system activity looks like, and while this is true for *some* systems (especially after years of practice with these skills), in many cases it is much more subtle than people think. You have to truly learn that not every thought that happens in your brain is yours and practice how to discern that.
+You have to change your outlook on the boundaries of your selfhood- in plurality, **not every thought that happens in your brain is your thought**. The societies that most people reading this guide will have grown up in assert a singular self so hard that its natural to assume every thought that strays in your head is 'you', so it can be an adjustment to move to the idea that this 'you' box is actually smaller than you were thinking it was and then enforce this automatic identification/disidentification.
 
-System communication often feels like regular thoughts, usually, but they just don't fully feel like *your* thoughts. Noticing that, and even encouraging that lack of identification as yours to help recognize your headmate's speech is not always automatic and often needs to be learned.
+Even with this in mind though, it can be difficult, as people have very grand ideas of what system activity looks like that are not nessesarily accurate. 
 
-Members of systems have to practice 'sounding' different and 'feeling' different when they communicate(if they can or want to achieve this at all), and many systems will find that being tired or stressed means they do not always add on the identification bits in this fashion when they speak up. It is simply not the case that headmate internal communication will always be in a distinct different headvoice and always feel unmistakably foreign.
+Many folks think its going to feel a lot more seperate and unmistakably foriegn than it tends to actually be. While its true that for some systems (especially systems that have been practicing for a long while) things can be very overt, in many cases it is much more covert and mundane feeling than people may expect.
+
+See, thoughts, wether they are yours or theirs, are going to just feel like thoughts usually, though they may lack the feeling that they are *your* thoughts. Learning to discern which of those thoughts are your thoughts or theirs (if they are co-conscious enough to speak) can be difficult, and requires practice in thinking and examining thoughts to learn.
+
+Members of systems often also have to practice 'sounding' different and 'feeling' different when they communicate, or they will also still just 'sound' like you. Many systems will also find that being tired or stressed means they do not always add on the identification bits in this fashion when they speak up. It is simply not the case that headmate internal communication will always be in a distinct different headvoice and always feel unmistakably foreign.
 
 Because they feel pretty much like regular thoughts and happen in your regular thought train, most systems will find that they simply cannot think separate thoughts at the same time as their headmate, as well.
 
 You all exist in the same brain, and this means you have to all share the same resources- such as space in the internal narrative. Some systems may have or can train abilities that *appear* to allow one to think complex thoughts at the same time as other headmates also doing this, but the science of this actually being the case is HIGHLY controversial.
 
-Really, in most cases, internal communication is just significantly more covert and mundane than some people expect.
+With expectations managed, time to actually get into it.
 
 ## Establishing Communication
 
-First you need to establish any kind of communication at all, and to do that you need to have the right attitude.
+First you need to establish any kind of communication at all, and to do that you need to have the right attitude, lest you may have interpersonal problems on top of communication issues.
 
 Do not come at this from an angry, fearful, or otherwise very negative position if at all possible- come at it from understanding and care. Many headmates will avoid giving a response if they are afraid you will be upset with them, or may lash out if they feel you dislike them.
 
@@ -65,13 +69,13 @@ Many systems are capable of standard internal communication right off the bat, s
 
 First, get comfortable somewhere you will not be disturbed. You want to be able to mostly be paying attention to inside stuff for a bit, so try not to be doing anything that it would be dangerous to be distracted for.
 
-Think into your mind(or out loud, if you feel that would be easier) a greeting, who you are, and a simple question that is hard to get a 'junk' random thought response for (not a yes/no question). Asking for a name is a good example. Try to 'push' this message at your headmate, and then try to 'step back' to listen for a response.
+Think into your mind(or speak out loud, if you feel that would be easier) a greeting, who you are, and a simple question that is hard to get a 'junk' random thought response for (not a yes/no question). Asking for a name is a good example. Try to 'push' this message at your headmate, and then try to 'step back' to listen for a response.
 
 This stepping back is less 'thinking of nothing' and more not trying to control the direction of the thoughts within the internal narrative so hard.
 
 Try to believe as strongly as you can than your headmate can hear you and respond. The power of belief is very strong in system experiences, and doing this can really make a difference.
 
-The response, if you get one, will often feel like when you are thinking to yourself, but it will not quite feel like -you- thought it.
+The response, if you get one, will often feel and 'sound' like when you are thinking to yourself, but it will not quite feel like -you- thought it.
 
 If you get a reply that behaves personlike- congrats! You've done internal communication and should practice and use this.
 
@@ -97,7 +101,7 @@ In order to communicate, you have to say things. So therefore, first you should 
 
 To reiterate: **The number one way to build connections in your system and strengthen your headmates is to talk to them!**
 
-As you go about your day, try mentally narrating comments periodically about the things you are doing to those in your system. It doesn't necessarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
+As you go about your day, try mentally narrating comments periodically about **literally anything** to those in your system. It doesn't necessarily have to be in words if that is not natural to you as a method of thinking, but it does have to be something. Try starting out with saying a sentence or two a couple times a day and work up from there.
 
 It helps to believe very strongly that they can hear you, as belief that something can happen is a powerful force that pulls a lot of weight with system experiences.
 
@@ -107,9 +111,7 @@ If you need to work on making contact, this is a good first step. Its also usefu
 
 ### How To Listen
 
-Talking is fairly easy, but learning how to listen can be hard, especially because many people have misconceptions about what it looks like.
-
-If you have trouble hearing reliable responses (or responses at all) practicing how to listen can help with this.
+Talking is fairly easy, but learning how to listen can be hard. If you have trouble hearing reliable responses (or responses at all) practicing how to listen can help with this.
 
 #### Intentionality and Ownership
 
@@ -119,7 +121,10 @@ Intentionality of thought is when a thought is very deliberately made. Stray 'ju
 
 Ownership, in turn, is your sense of ownership over that thought. It feels like you thought it, you ascribe your sense of self to that thought.
 
-Thoughts inside your head have various levels of your intentionality and ownership, and the goal in learning how to listen is to be able to temporarily reduce the thoughts that have a strong sense of BOTH your intentionality and your sense of ownership a little so there is more room for your headmate to speak.
+Thoughts inside your head have various levels of your intentionality and ownership, and learning how to discern thoughts
+
+and the goal in learning how to listen is to be able t
+temporarily reduce the thoughts that have a strong sense of BOTH your intentionality and your sense of ownership a little so there is more room for your headmate to speak.
 
 #### Stepping Back
 
@@ -172,6 +177,11 @@ If your attempts at communication as listed above have been going on for awhile 
 You might find that stopping and stepping back that much to be counterproductive to listening for your system. If you are unable to discern quickly/easily if a given intentional thought has your ownership or not and hold back *only* the intentional thoughts that feel like you, then it may be best to not take the previously stated approach.
 
 Instead, meditation exercises that are merely for just being aware of thoughts in your mind without trying to reduce your conscious thoughts may be more effective at letting you hear your headmates, especially at first.
+
+### Visualization
+
+Skill that can aid communication techniques. Visualization, if you are not aphantasic is very useful as an aid for many system skills.
+
 
 ### Getting Their Attention
 
