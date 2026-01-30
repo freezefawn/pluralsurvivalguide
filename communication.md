@@ -87,6 +87,8 @@ If you cannot talk reliably internally, the most base level of communication is 
 
 If you KNOW you have a headmate that keeps fronting, and you just cannot talk to them inside, try writing a note somewhere they will come across it (but ideally other bodies will not). If you know they keep fronting for certain things, you can try leaving it in that sort of space. Leaving it visible in items that are commonly used for daily life (such as a wallet, computer desktop, journal, or phone) is also a good option.
 
+Writing like this can also build trust between system members, which can lower dissociative barriers if you have any and can also make headmates more willing to reach out internally.
+
 You will need patience, but this is a reliable fallback option even if you have total blackouts and zero other communication abilities.
 
 ## Internal Communication Basics
@@ -113,22 +115,23 @@ If you need to work on making contact, this is a good first step. Its also usefu
 
 Talking is fairly easy, but learning how to listen can be hard. If you have trouble hearing reliable responses (or responses at all) practicing how to listen can help with this.
 
+Its not always that your headmates *aren't* speaking up, its that you haven't figured out how to hear them correctly.
+
+
 #### Intentionality and Ownership
 
 One important concept that the writers of this guide find to explaining what is necessary to properly listen without drowning out headmates with your own thoughts is the concept of Intentionality and Ownership.
 
-Intentionality of thought is when a thought is very deliberately made. Stray 'junk thoughts' that just sort of kneejerk from nowhere and are usually nonsensical lack intentionality. For example when you look into the fridge and see you are nearly out of eggs and you consciously think to yourself and override anything else in your head with 'ok, I need to buy eggs' this is an intentional thought. When your headmate communicates with you this is also an intentional thought. You can feel the thought forming and the conscious intention of it, however it lacks *your* ownership.
+Intentionality of thought is when a thought is very deliberately made. Stray 'junk thoughts' that just sort of kneejerk from nowhere and are usually nonsensical lack intentionality. For example when you look into the fridge and see you are nearly out of eggs and you consciously think to yourself and override anything else in your head with 'ok, I need to buy eggs' this is an intentional thought. When your headmate communicates with you this is also an intentional thought. You can feel the conscious intention of it, however it lacks *your* ownership.
 
 Ownership, in turn, is your sense of ownership over that thought. It feels like you thought it, you ascribe your sense of self to that thought.
 
-Thoughts inside your head have various levels of your intentionality and ownership, and learning how to discern thoughts
+Thoughts inside your head have various levels of your intentionality and ownership, and learning how to both not drown out your headmates with your conscious thoughts and identify thoughts that are NOT yours can be very helpful in learning how to do internal communication.
 
-and the goal in learning how to listen is to be able t
-temporarily reduce the thoughts that have a strong sense of BOTH your intentionality and your sense of ownership a little so there is more room for your headmate to speak.
 
 #### Stepping Back
 
-If you are used to having an iron grip on your thoughts, it can be hard to step back in this fashion. Learning to not control all the thoughts that happen within your head however is a skill that can be trained, particularly through the use of meditation.
+If you are used to having an iron grip on your thoughts, it can be hard to ease up your tight control. Learning to not control all the thoughts that happen within your head however is a skill that can be trained, particularly through the use of meditation.
 
 Meditation is a mildly altered state of consciousness that is used for a great many things and there are a large variety of techniques and flavors of it to achieve said things. For our purposes, meditation is being used to get into a particular mind state of being more mentally passive than you generally are.
 
@@ -151,8 +154,8 @@ While the exercise itself will take 5-15 mins (5 mins is a good starting time, c
 
 You can also try this technique just before bed, as you are already relaxed and you will not be expected to do anything for a good number of hours. This state is also useful for helping fall asleep for many people, so it serves a dual purpose.
 
-Once you are comfortable in whatever position you want, you are just going to try to not deliberately think anything. You aren't trying to have *no* thoughts, but rather not think of anything purposefully in particular. Hold your thoughts like they are alive, you are observing, not forcing or deliberately engaging.
-If you do this correctly, what will be left are mostly 'junk thoughts' that are barely coherent at best flicking around that you are not consciously thinking. You may also hear headmate chatter already, which will feel like relatively coherent thinking, but not thinking that *you* did. Intentionality without your ownership.
+Once you are comfortable in whatever position you want, you are just going to try to not deliberately think anything. You aren't trying to have *no* thoughts, but rather not think of anything purposefully in particular. Hold your thoughts like they are alive, you are observing, not forcing or deliberately engaging anything.
+If you do this correctly, what will be left are mostly 'junk thoughts' that are barely coherent at best flicking around that you are not consciously thinking. It may even feel like you are having MORE thoughts than usual during this time. This is what you want- as little control asserted on the internal narrative as possible. You may also hear headmate chatter already, which will feel like relatively coherent thinking, but not thinking that *you* did. Intentionality without your ownership.
 
 You may find usefulness in listening to music while you meditate, or listen to a guided meditation that also has the same goal of passive observation of thought. Fair warning that guided meditation is a bit more risky in terms of potentially triggering an issue.
 
@@ -176,18 +179,21 @@ If your attempts at communication as listed above have been going on for awhile 
 
 You might find that stopping and stepping back that much to be counterproductive to listening for your system. If you are unable to discern quickly/easily if a given intentional thought has your ownership or not and hold back *only* the intentional thoughts that feel like you, then it may be best to not take the previously stated approach.
 
-Instead, meditation exercises that are merely for just being aware of thoughts in your mind without trying to reduce your conscious thoughts may be more effective at letting you hear your headmates, especially at first.
+Instead, meditation exercises that are merely for just being aware of thoughts in your mind without trying to reduce your conscious thoughts any may be more effective at letting you hear your headmates, especially at first.
+
 
 ### Visualization
 
-Skill that can aid communication techniques. Visualization, if you are not aphantasic is very useful as an aid for many system skills.
+Skill that can aid communication techniques. Visualization -if you are not aphantasic- is very useful as an aid for many system skills. There are many visualization techniques, here are a few common ones.
+
+#### Signatures
+
+One technique for identification and visualization of your headmates is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
+
+With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
 
 
 ### Getting Their Attention
-
-Maybe you can do the techniques, but you have a hard time making your headmates aware of you. This is the section to help with that.
-
-#### Front Pulls And Triggers
 
 Front pulls and triggers are stimuli that bring headmates towards the front, with triggers having the connotation of something more automatic and negative (though positive triggers exist). If your system struggles with co-consciousness, you may need to try to induce that headmate coming to front to some level to communicate with them, especially at first.
 
@@ -195,11 +201,6 @@ Look back on the things that have caused headmate activity before (ideally thing
 
 As they start to come to awareness, try doing the communication test again, it might be easier to interact with them.
 
-#### Signatures
-
-One technique for identification and visualization of your headmates is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
-
-With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
 
 ### Speaking Up From The Back
 
