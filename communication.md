@@ -179,7 +179,7 @@ Maybe you can do the techniques, but you have a hard time making your headmates 
 
 #### Front Pulls And Triggers
 
-Front pulls and triggers are stimuli that bring headmates towards the front, with triggers having the connotation of something more automatic and negative. If your system struggles with co-consciousness, you may need to try to induce that headmate coming to front to some level to communicate with them, especially at first.
+Front pulls and triggers are stimuli that bring headmates towards the front, with triggers having the connotation of something more automatic and negative (though positive triggers exist). If your system struggles with co-consciousness, you may need to try to induce that headmate coming to front to some level to communicate with them, especially at first.
 
 Look back on the things that have caused headmate activity before (ideally things that were neutral to pleasant rather than things that seem to cause them distress) and try to do those things to try to tempt them to come forward. (listening to music, doing certain hobbies, going to certain places, wearing certain clothes, etc)
 
@@ -187,7 +187,7 @@ As they start to come to awareness, try doing the communication test again, it m
 
 #### Signatures
 
-One technique for identification and visualization in this manner is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
+One technique for identification and visualization of your headmates is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
 
 With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
 
@@ -195,7 +195,7 @@ With a signature, you can then have a clearer picture of the headmate you are tr
 
 From the other side, those who have trouble talking from the back have to build the mental strength to speak up. That is, they have to practice talking as well in order to get better at it.
 
-Those of you who aren't fronting? You have to want it too. You have to take the space that you want to have, you have to strengthen yourself so that you can have the skill you wish.
+Those of you who aren't fronting? You have to want it too. You have to take the space that you want to have, you have to put in effort to engage so that you can have the skills you wish. Remember that you are allowed to take up space, too. Its *your* life as well.
 
 At first it will be difficult and tiring. You may have a hard time getting your words across and using the thought train to think and speak at first- and that at first may take a very long time. Start small and practice frequently to build stamina, but eventually there will be results.
 
@@ -203,17 +203,15 @@ At first it will be difficult and tiring. You may have a hard time getting your 
 
 One can also use the inner world to communicate if a given system needs a more involved experience to interact properly.
 
-If you can only internally communicate through the inner world, it may be advantageous to have daily meetings in the inner world to check in and converse with whoever is at front.
+If you can only internally communicate through the inner world, it may be advantageous to have daily (or more often) meetings in the inner world to check in and converse with whoever is at front.
 
 Read the [Headspace] article to learn more on how to build, access, and utilize an inner world.
 
-## The fancy stuff
+## Imposition And Projection
 
-the less standard stuff. WIP
+The other major communication techniques we will cover in this guide.
 
-### Imposition and Projection section
-
-communication through this will be covered in the imposition and projection guide. WIP
+See the article on [Imposition and Projection]
 
 ## External Guides:
 
