@@ -171,6 +171,7 @@ When you can step back to some level at will, try talking to your headmates then
 
 This state makes it easier to hear headmates, as you aren't taking up as much space and dont need to be muscled out of the way.
 
+
 ##### Avoiding Listening Too Hard
 
 Its a very paradoxial problem, but it is very much possible (and even common in newbies) that attempts to listen for headmates can end up quashing their voices instead.
@@ -180,17 +181,6 @@ If your attempts at communication as listed above have been going on for awhile 
 You might find that stopping and stepping back that much to be counterproductive to listening for your system. If you are unable to discern quickly/easily if a given intentional thought has your ownership or not and hold back *only* the intentional thoughts that feel like you, then it may be best to not take the previously stated approach.
 
 Instead, meditation exercises that are merely for just being aware of thoughts in your mind without trying to reduce your conscious thoughts any may be more effective at letting you hear your headmates, especially at first.
-
-
-### Visualization
-
-Skill that can aid communication techniques. Visualization -if you are not aphantasic- is very useful as an aid for many system skills. There are many visualization techniques, here are a few common ones.
-
-#### Signatures
-
-One technique for identification and visualization of your headmates is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
-
-With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
 
 
 ### Getting Their Attention
@@ -210,9 +200,33 @@ Those of you who aren't fronting? You have to want it too. You have to take the 
 
 At first it will be difficult and tiring. You may have a hard time getting your words across and using the thought train to think and speak at first- and that at first may take a very long time. Start small and practice frequently to build stamina, but eventually there will be results.
 
+
+### Visualization
+
+Visualization -if you are not aphantasic- is very useful as an aid for many system skills. There are many visualization techniques, here are a few common ones.
+
+#### General Ideas:
+
+Generally imagining whatever meaningful visuals come naturally to you is a good bet, but if you need some ideas for things to try, here are a few:
+- Imagine the form of the headmate you wish to contact.
+- Imagine speaking into a phone or other communication item that connects to your headmate.
+- Imagine some sort of media-inspired mental telepathy visual.
+- Imagine your specific mind voice as coming from a specific point in space, seperate from all the other thoughts in your mind so you can pick out your voice from the other thoughts.
+- Imagine a door and your headmate on the other side of it, unseen, and talk through it.
+
+
+#### Signatures
+
+One technique for identification and visualization of your headmates is by training signatures. Signatures are condensed collections of sensory associations of a given headmate- for example a specific color, a spatial direction, an ideal form of theirs, a specific scent or item and so forth called up together.
+
+With a signature, you can then have a clearer picture of the headmate you are trying to contact, and may in turn have both an easier time both hearing a message from them without it getting lost in the noise and an easier time sending a message in the correct direction.
+
+
 ### Inner World Use
 
-One can also use the inner world to communicate if a given system needs a more involved experience to interact properly.
+Following from the previous section, a more in-depth visualization can be even more powerful of a tool. That is; the inner world.
+
+One can indeed also use their inner world to communicate if a given system needs a more involved experience to interact properly.
 
 If you can only internally communicate through the inner world, it may be advantageous to have daily (or more often) meetings in the inner world to check in and converse with whoever is at front.
 
