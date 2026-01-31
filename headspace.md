@@ -30,113 +30,6 @@ There are also reasons not to utilize a headspace to keep in mind:
 - If the level of immersion you may expect from it is not worth the amount of work for you.
 - If you have headmates that behave in maldaptive or antagonistic ways, they may be able to utilize the headspace as a new tool to enact harmful behavior.
 - If you dont want to create one, for whatever reason.
-    
-
-## Clearing Up Common Misconceptions
-
-This is is one of the system experiences people have the most misconceptions about. People think it is, as per usual, a lot more overt and grand than it actually is.
-
-WIP WIP WIP
-
-In actuality; **The headspace is essentially a multiplayer daydream**. This means that it is going to be about the same level of intensity and immersion as any of your other daydreams. For most systems, it simply is not 1:1 with reality in terms of immersion. Higher immersion and detail can be learned, but it is very much not the norm. When you access headspace from front, its going to simply feel like really any other highly intensive daydream.
-
-This is a lot more shallow than what many people expect when they first try to access it, which causes them to think they aren't truly reaching it or doing it wrong, but this is not the case! Its just that the experience is less dramatic than media makes you think it is.
-
-
-- memory of headspace goings on
-- everyone Already Has a headspace (no)
-- you can form a headspace at any age and on purpose or not you can have as many as you want
-- you need a headspace (you dont)
-
-
-## How to get to your headspace:
-
-If you know you already have a headspace the process is fairly simple; You just imagine it and hold the thought lightly enough that your headmates may alter the thought or otherwise add onto it. You may find getting into a meditative state to be useful for imagining in enough clarity without controlling it too much.
-
-This general process also can apply to many more metaphysical inner worlds- simply think on it until you are connected.
-
-If you have trouble, you can also try things like visualizing a connecting process (such as going through a door or a 'loading screen'), or asking one of your headmates to bring you in.
-
-If you have trouble accessing an inner world of any kind, it may also be because you simply do not have one.
-
-
-### How do you make a headspace?
-In short- you imagine it over and over and then you have one. It can be anything you and your system want.
-
-To be more in-depth;
-The headspace is basically like a daydream. You create it in much the same way.
-Start small to be safe, for example imagine in detail a table or couch. It doesnt have to be that, but it should be something fairly small. Get very detailed with it. When you can call up that thought easily, imagine yourself standing near it, or sitting down on it.
-Now invite someone in your system to play with it with you and hold the thought gently like its alive. If it feels like the thought is changing on you in a deliberate way, then this might be a headmate. Let it happen and see what occurs.
-
-The goal here is to have a conversation with someone in your system in this space. If it works, congrats. You now have a headspace.
-If the meeting went well enough, keep doing this and perhaps add more features, such as a room around you and a door into it. You can change it later if you have to.
-
-Over time you build the space to look how you and your system want.
-
-
-Debugging:
-
-
-
-Links:
-
-
-
-
-
-
-So for systems that **dont have spiritual components**, the headspace (also known as the inner world, wonderland, etc) is **a thought construct**. Its a **bit like daydreaming**, but its a specific space that has been daydreamed so many times by different headmates that it 'sticks' and becomes **very easy to imagine** in a very detailed way that feels almost real.
-
-Think of the headspace like a **complex and immersive thought**. You see the headspace by **making one and imagining it and inviting others to play with the thought with you**, or by **going to one that has been already constructed in this way** by someone or something in the system.
-
-Many systems **have to create their headspace** before being able to go there, but many also have one or more headmates that have **already made it to some level** consciously or subconsciously.
-
-Systems with **psychologically based headspaces tend to have some level of control** over its contents- as you just **imagine it different over and over until it overrides the previous version**. Sometimes **only some headmates** can do this however and they may be **currently in hiding**, or the headspace has a **dedicated fragment whos only purpose is to upkeep the headspace**.
-
-This may make altering or accessing the headspace tricky, as the given headmates **may not have invited you to play with it yet** for whatever reason.
-
-Some systems believe their headspace is an **outside plane or world**, and they tend to experience their headspace **not being so mutable** with just thought. We will focus on psychologically based headspaces here, however.
-
-
-
-
-
-When being in the headspace when you are not at front, because of the way fronting and switching works for many systems, **your system may not keep memories from when you are not at front**.
-
-Therefore, **you may not remember what you did in the headspace from your perspective or at all.**
-
-**When you access the headspace from the front, you are far more likely to remember** (unless another headmate is taking those memories from you) as you are **'writing' the memory with the primary internal narrative** (or Only internal narrative if you usually switch by 'passing the I').
-
-When you are at front, you go into the headspace by **imagining it in heavy detail and then imagine yourself in it and walking around**. Hold the thought construct **gently** so others can play with it too. It may help to **close your eyes or lie down** when you do this. **Meditation** can also help.
-
-It really is that easy!
-
-Its important to keep in mind- **you can just Make Your Own headspace if others are not letting you play with theirs**, or there is **some barrier preventing you from doing so** despite their best efforts in letting you join in.
-
-There is **no limit to the number of headspaces** as they are just detailed thought constructs- not real places or whatever.
-
-You can even later mash them together if you want.
-
-  
-
-To answer your asked question: **Because of this, any system can theoretically make and/or access the headspace at any time and at any age. Age and time are completely irrelevant.**
-
-  
-
-**To answer your unasked question** of 'Im having trouble accessing the headspace that other headmates seem to be able to access, what is going on and how do I do that?'
-
-First see if your **understanding of what the headspace is** was blocking you from accessing it. Newbies often think the headspace is a 'real place' that is very solid for all systems that they go when not fronting and can remember it all perfectly and get panicked when they are not having that experience. This is very much not true. **The headspace is often just a multiplayer daydream.**
-
-Next, **talk to your headmates**, see if they are intentionally blocking you from using it. Sometimes this is the case. **The person who made the headspace may also just not know you exist** and so hasnt invited you.
-
-If either of those do not work, then it may be **a dissociative barrier thing**. In which case, work with your system until those barriers go away. **Its not time dependent, its healing dependent.**
-
-**If you are young** (minor), this may not go away until you have **left home** as it may be there to **protect you from your current situation**.
-
-In the meantime you will just have to live with not having that experience.
-
-Having a headspace and/or being able to access the headspace that your system uses is not the end all be all of system experience. It is ok to not have what is considered a more 'typical' experience of having one.
-
 
 
 You dont need a headspace and many systems dont have one- not even a featureless void/room.
@@ -152,13 +45,105 @@ For a long time we didnt have a headspace, but we found for us personally, havin
 We want to be clear- **any skill you can work on with a headspace you can work on without it**, it just might be more difficult.
 
 
-For tips and tricks;
+    
 
-We would recommend viewing and building your headspace from the perspective that its just a more complex thought than you are used to- as the very least at first- because it kind of is!
+## Clearing Misconceptions
+
+This is is one of the system experiences people have the most misconceptions about. The false notions people tend to have going in can cause people to be discouraged by what they actually experience. This section intends to help with that.
+
+The first major one of these that will be covered is the idea that one's headspace is always 1:1 with reality and when you access it and it feels like literally being transported to a world as vivid as reality. In actuality; **The headspace is essentially a multiplayer daydream**. This means that its going to be about the same level of intensity and immersion as any of your other daydreams for most people. Higher immersion and detail can be learned, and some systems have more unusual experiences, but it is very much not the norm.
+
+Related to this, there is also the misconception that there is something wrong if you cannot recall what you were doing in headspace if the front was not paying attention to it. This is very standard actually. While some systems appear to be able to make memory while not utilizing the front, this is not common.
+
+From a scientific-only perspective, **true multitasking is not possible; you cannot symeoutaneously think of two things at once**, only flick between different things rapidly. So what is actually happening here for these systems, from a scientific perspective, is more likely either retroactive memories that are generated when they return to front and recall them or dissociation preventing the fronting party from perceiving the share of the brain's attention that is going to what that headmate is thinking and doing.
+
+One can then in this vein think of the internal thought stream like a resource that must be shared to think and make memory. The headspace has to run in this same resource, which is why the attention of the front is important to remembering what you have done in it.
+
+The final major misconception is that everyone has and needs a headspace. Not true! **Many systems have to make a headspace to have one, or choose to never have a headspace**. A headspace can be helpful, yes, but its not for everyone. You can also make and have as many headspaces as you want -as in make multiple seperate inner worlds- and they can change radically over time.
+
+
+
+First see if your **understanding of what the headspace is** was blocking you from accessing it. Newbies often think the headspace is a 'real place' that is very solid for all systems that they go when not fronting and can remember it all perfectly and get panicked when they are not having that experience. This is very much not true. **The headspace is often just a multiplayer daydream.**
+
+
+
+## How to get to your headspace:
+
+If you know you already have a headspace the process is fairly simple; You just imagine it and hold the thought lightly enough that your headmates may alter the thought or otherwise add onto it. You may find getting into a meditative state to be useful for imagining in enough clarity without controlling it too much.
+
+This general process also can apply to many more metaphysical inner worlds- simply think on it until you are connected.
+
+If you have trouble, you can also try things like visualizing a connecting process (such as going through a door or a 'loading screen'), or asking one of your headmates to bring you in.
+
+If you have trouble accessing an inner world of any kind, it may also be because you simply do not have one.
+
+
+
+When you are at front, you go into the headspace by **imagining it in heavy detail and then imagine yourself in it and walking around**. Hold the thought construct **gently** so others can play with it too. It may help to **close your eyes or lie down** when you do this. **Meditation** can also help.
+
+It really is that easy!
+
+
+
+Its important to keep in mind- **you can just Make Your Own headspace if others are not letting you play with theirs**, or there is **some barrier preventing you from doing so** despite their best efforts in letting you join in.
+
+
+
+Next, **talk to your headmates**, see if they are intentionally blocking you from using it. Sometimes this is the case. **The person who made the headspace may also just not know you exist** and so hasnt invited you.
+
+If either of those do not work, then it may be **a dissociative barrier thing**. In which case, work with your system until those barriers go away. **Its not time dependent, its healing dependent.**
+
+**If you are young** (minor), this may not go away until you have **left home** as it may be there to **protect you from your current situation**.
+
+In the meantime you will just have to live with not having that experience.
+
+Having a headspace and/or being able to access the headspace that your system uses is not the end all be all of system experience. It is ok to not have what is considered a more 'typical' experience of having one.
+
+
+
+
+## How do you make a headspace?
+In short- you imagine it over and over and then you have one. It can be anything you and your system want.
+
+To be more in-depth;
+The headspace is basically like a daydream. You create it in much the same way.
+Start small to be safe, for example imagine in detail a table or couch. It doesnt have to be that, but it should be something fairly small. Get very detailed with it. When you can call up that thought easily, imagine yourself standing near it, or sitting down on it.
+Now invite someone in your system to play with it with you and hold the thought gently like its alive. If it feels like the thought is changing on you in a deliberate way, then this might be a headmate. Let it happen and see what occurs.
+
+The goal here is to have a conversation with someone in your system in this space. If it works, congrats. You now have a headspace.
+If the meeting went well enough, keep doing this and perhaps add more features, such as a room around you and a door into it. You can change it later if you have to.
+
+Over time you build the space to look how you and your system want.
+
+
+Its a **bit like daydreaming**, but its a specific space that has been daydreamed so many times by different headmates that it 'sticks' and becomes **very easy to imagine** in a very detailed way that feels almost real.
+Think of the headspace like a **complex and immersive thought**. You see the headspace by **making one and imagining it and inviting others to play with the thought with you**, or by **going to one that has been already constructed in this way** by someone or something in the system.
+Many systems **have to create their headspace** before being able to go there, but many also have one or more headmates that have **already made it to some level** consciously or subconsciously.
+
+Systems with **psychologically based headspaces tend to have some level of control** over its contents- as you just **imagine it different over and over until it overrides the previous version**. Sometimes **only some headmates** can do this however and they may be **currently in hiding**, or the headspace has a **dedicated fragment whos only purpose is to upkeep the headspace**.
+
+This may make altering or accessing the headspace tricky, as the given headmates **may not have invited you to play with it yet** for whatever reason.
+
+Some systems believe their headspace is an **outside plane or world**, and they tend to experience their headspace **not being so mutable** with just thought. We will focus on psychologically based headspaces here, however.
+
+
+There is **no limit to the number of headspaces** as they are just detailed thought constructs- not real places or whatever.
+
+You can even later mash them together if you want.
 
 You as a system are imagining a very complex thing a bunch of times until it becomes very easily imagined and then passing that thought back and forth between the members of your system to play with it. This means you can do a lot more things than you think you can with a headspace and the headspace is also not as vivid as most people think it is. Its not always a fully 5-sense-immersed ordeal.
 
-here are some nice posts about headspace stuff:
+Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
+you might only be able to reliably communicate in a more in depth sort of meditative state like this.
+
+
+## Debugging:
+
+WIP WIP WIP
+
+## External Guides:
+
+
 
 - [https://tulpanomicon.guide/tulpanomicon.pdf](https://tulpanomicon.guide/tulpanomicon.pdf) (go to the wonderlands section, its lots of the same sorts of exercises regardless of your system origin theory)
     
@@ -172,6 +157,4 @@ here are some nice posts about headspace stuff:
 
 
 
-Imagine a space. Imagine it REALLY detailed. Ok now imagine your headmate and then let go of it and invite them to take form there. Now talk to them and step back on controlling the daydrema a bit. See if they will play with you.
-you might only be able to reliably communicate in a more in depth sort of meditative state like this.
 
