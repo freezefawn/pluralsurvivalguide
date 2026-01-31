@@ -214,6 +214,7 @@ Generally imagining whatever meaningful visuals come naturally to you is a good 
 - Imagine your specific mind voice as coming from a specific point in space, seperate from all the other thoughts in your mind so you can pick out your voice from the other thoughts.
 - Imagine a door and your headmate on the other side of it, unseen, and talk through it.
 
+You improve your visualization skill by imagining things over and over. As always, practice is the name of the game.
 
 #### Signatures
 
