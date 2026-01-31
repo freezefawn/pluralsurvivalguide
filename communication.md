@@ -239,33 +239,49 @@ Once you have contact, you will need to practice to improve your experience.
 
 Here are some tips and tricks that may be useful.
 
-- Nametag Method: Use names when you talk to each other to help differentiate and enforce seperation of thoughts.
-- Thought Pingpong: Repeat thoughts back and forth to each other and critique delivery and try to follow advice on what needs improvement to have a clear voice that 'sounds right'.
+- **Nametag Method**: Use names when you talk to each other to help differentiate and enforce seperation of thoughts.
+- **Thought Pingpong**: Repeat thoughts back and forth to each other and critique delivery and try to follow advice on what needs improvement to have a clear voice that 'sounds right'.
 - Play games together to help build communication skills
-- Find voices to mimic mentally to help 'train' a mental voice to sound how you like
+- Find voices to mimic mentally to help 'train' a mental voice
 - Practice communication in a variety of situations, until it becomes natural
-- Really: Just practice practice practice
+- Really- Just practice practice practice
 
 ## Debugging
-WIP WIP WIP
-A quick section on common problems.
 
-Communication got worse suddenly
-First- did something major happen recently? Both negative and positive stressors can effect system skills of all stripes, and simmering chronic badness can also just hit a breaking point and cause problems.
-Give it time for things to calm down and try to do what you can to eliminate the stressor. Try communication exercises that are less strenuious in the intrim to try to work thorugh it.
+A quick section on common problems with communication and pointers on how to resolve them.
 
-Being unsure if a thought is your headmate or you
-Ask your headmate if they said it, if they confirm/deny then there you go. Dont stress too hard.
+#### "Communication suddenly got worse!"
 
-'Am I faking it?'
-Go read the combating doubts article again.
-In specific if you think you are making things up;
-'it always feels like I know what they are gonna say' - standard thoughtleak of raw thought before they finish sending the proper thought. 
-'but it feels like me' - standard experience before mental voices are further developed. its always going to feel like thinking does in the mind and you are just used to thinking feeling being for your thoughts
-'Am I just imaigning it?' try making them do something they would never do in your mind. Tell them to try to stop you. They get mad and it feels bad and they are likely to correct you, right? It feels like fighitng and sludgy? Real.
+This happens sometimes. System skills can just wax and wane like that.
+Examine your current situation and timeline and ask yourselves if a major life event happened recently. Both negative and positive stressors can effect system skills, and simmering chronic stressors can also hit a breaking point and cause problems.
+If this has occurred, generally you just have to wait it out. If you can eliminate or reduce the stressors it can help as well. Try gentle communication exercises to work at it in the meantime.
 
-my guy went quiet what now
-first wait it out for a bit, sometimes headmates get Tired. Or annoyed and want some space. or whatever. A few days is no biggie. If tis been weeks try talking in their direction sometimes, has there been stressors. try to wait out or remove stressor. did you fight recently? Apologize. did they fight with anyone else in the system recently? Ask around if there are tohers around if they know whats going on.
+#### "I can't tell if this is me or my headmate!"
+
+Try asking your headmate if they said it.
+Honestly don't stress too hard about this; as you practice it will make it easier to tell and your headmates can correct assumptions then.
+
+#### "Am I faking this?"
+
+Go read the [Combating doubts] article again.
+
+In specific for this section if you think you are making things up;
+- **'It always feels like I know what they are going to say'**: This is standard thoughtleak of raw thought. Nothing to worry about. You can reduce this with practice to be quicker at thinking in words if you want. 
+- **'It just feels like me but weird'**: Standard experience before mental voices are further developed and you get better at ascribing and Not ascribing ownership. Its always going to feel like thinking does in the mind and you are just used to thinking feeling being for your thoughts.
+- **'Am I just imagining it?'** : Here is a little test that might bear fruit; try imagining them doing something they would never do in your mind and encourage them to stop you. Does it feel awkward or bad? Like the thought is disagreeing with you or reluctant/upset to do it? Do they correct you or get mad in some way? There you go, autonomy demonstrated.
+
+#### "My headmates suddenly went quiet!"
+
+First thing you should do it wait. Silent periods are very common and nothing to worry about usually. Headmates can get tired or want some space or a break from meatspace. Experiences like this ebb and flow, you will find.
+If its been weeks since you have heard anything though, then something may be up.
+
+Again examine whats happened with you recently; have there been major life changes or stressors recently? Wait it out or try to reduce the stressor. Did you fight recently with your headmate? Try apologizing. Talk to other system members if you have any and ask if they know anything about what happened.
+
+In the meantime, try making contact again like you are starting from scratch.
+
+#### "My headmates are mad at/hate me and don't want to talk!"
+
+See the [System Conflict] article.
 
 ## Imposition And Projection
 
@@ -280,3 +296,4 @@ See the article on [Imposition and Projection]
 - [Advice from Yolk: Thought Ping Pong](https://chupitulpa.tumblr.com/post/32038874026)
 - [Tips for Hearing Your Tulpa](https://web.archive.org/web/20240519112631/https://community.tulpa.info/topic/8334-tips-for-hearing-your-tulpa/)
 - [I Think We're Alone Now: A Checklist of Suggestions For When Your System-mate Goes Missing](https://docs.google.com/document/d/1LP_rveP9vhvomBkX5pHr-mFh9aREli3QQKC3D01q58o/edit?tab=t.0#heading=h.90o3iv7cs1w)
+- [Handling The "Silent Periods"](https://feastingwithghosts.com/creations/essays/plurality/handlingsystemsilence)
