@@ -241,4 +241,4 @@ See the article on [Imposition and Projection]
 
 ## External Guides:
 
-https://feastingwithghosts.com/creations/essays/plurality/internalsignatures
+[A Guide to Internal Signatures](https://feastingwithghosts.com/creations/essays/plurality/internalsignatures)
