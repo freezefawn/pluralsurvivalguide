@@ -233,6 +233,40 @@ If you can only internally communicate through the inner world, it may be advant
 
 Read the [Headspace] article to learn more on how to build, access, and utilize an inner world.
 
+## Communication Tips
+
+Once you have contact, you will need to practice to improve your experience.
+
+Here are some tips and tricks that may be useful.
+
+- Nametag Method: Use names when you talk to each other to help differentiate and enforce seperation of thoughts.
+- Thought Pingpong: Repeat thoughts back and forth to each other and critique delivery and try to follow advice on what needs improvement to have a clear voice that 'sounds right'.
+- Play games together to help build communication skills
+- Find voices to mimic mentally to help 'train' a mental voice to sound how you like
+- Practice communication in a variety of situations, until it becomes natural
+- Really: Just practice practice practice
+
+## Debugging
+WIP WIP WIP
+A quick section on common problems.
+
+Communication got worse suddenly
+First- did something major happen recently? Both negative and positive stressors can effect system skills of all stripes, and simmering chronic badness can also just hit a breaking point and cause problems.
+Give it time for things to calm down and try to do what you can to eliminate the stressor. Try communication exercises that are less strenuious in the intrim to try to work thorugh it.
+
+Being unsure if a thought is your headmate or you
+Ask your headmate if they said it, if they confirm/deny then there you go. Dont stress too hard.
+
+'Am I faking it?'
+Go read the combating doubts article again.
+In specific if you think you are making things up;
+'it always feels like I know what they are gonna say' - standard thoughtleak of raw thought before they finish sending the proper thought. 
+'but it feels like me' - standard experience before mental voices are further developed. its always going to feel like thinking does in the mind and you are just used to thinking feeling being for your thoughts
+'Am I just imaigning it?' try making them do something they would never do in your mind. Tell them to try to stop you. They get mad and it feels bad and they are likely to correct you, right? It feels like fighitng and sludgy? Real.
+
+my guy went quiet what now
+first wait it out for a bit, sometimes headmates get Tired. Or annoyed and want some space. or whatever. A few days is no biggie. If tis been weeks try talking in their direction sometimes, has there been stressors. try to wait out or remove stressor. did you fight recently? Apologize. did they fight with anyone else in the system recently? Ask around if there are tohers around if they know whats going on.
+
 ## Imposition And Projection
 
 The other major communication techniques we will cover in this guide.
@@ -241,4 +275,8 @@ See the article on [Imposition and Projection]
 
 ## External Guides:
 
-[A Guide to Internal Signatures](https://feastingwithghosts.com/creations/essays/plurality/internalsignatures)
+- [A Guide to Internal Signatures](https://feastingwithghosts.com/creations/essays/plurality/internalsignatures)
+- [Quantum's Nametag Method](https://web.archive.org/web/20241108102733/https://community.tulpa.info/topic/3845-quantums-nametag-method/)
+- [Advice from Yolk: Thought Ping Pong](https://chupitulpa.tumblr.com/post/32038874026)
+- [Tips for Hearing Your Tulpa](https://web.archive.org/web/20240519112631/https://community.tulpa.info/topic/8334-tips-for-hearing-your-tulpa/)
+- [I Think We're Alone Now: A Checklist of Suggestions For When Your System-mate Goes Missing](https://docs.google.com/document/d/1LP_rveP9vhvomBkX5pHr-mFh9aREli3QQKC3D01q58o/edit?tab=t.0#heading=h.90o3iv7cs1w)
