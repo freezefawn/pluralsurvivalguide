@@ -72,7 +72,7 @@ With that out of the way;
 
 - [Communication 101](communication)
 - [Co-Consciousness]
-- [Headspace](Headspace)
+- [Headspace](headspace)
 - [Switching 101]
 - [Projection and Imposition]
 - [Elaboration and Personhood]
