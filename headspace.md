@@ -122,7 +122,7 @@ Useful things to worldbuild and visualize in general:
 
 Here are some common problems that may arise regarding headspaces;
 
-**"I can't change my inner world no matter what I do!"**
+#### "I can't change my inner world no matter what I do!"
 
 If you've tried everything previously mentioned in this guide, you have a few options on what to do next.
 
@@ -133,12 +133,12 @@ Please note that by digging around you may unearth forgotten memories or less we
 Most systems can eventually learn to tweak a headspace to some level if they have one, but you may be experiencing an exception, and thats ok too.
 
 
-**"We can't agree on how the inner world should look!"**
+#### "We can't agree on how the inner world should look!"
 
 If you cannot agree on how the inner world should look, you can always make multiple separate ones, or make the inner world cycle through all of your system's preferences.
 
 
-**"The inner world changed suddenly/I suddenly cannot access it!"**
+#### "The inner world changed suddenly/I suddenly cannot access it!"
 
 System skills can wax and wane over time- it just happens on occasion. Did something major happen recently? Major life events -both positive and negative- can cause changes in your abilities.
 
@@ -149,7 +149,7 @@ Try exercises that are not terribly intensive in the meantime.
 Its also possible someone shut you out. Did you get into a fight with a headmate recently? Try talking to your headmates if possible to see if they know anything.
 
 
-**"I know the system has a headspace but I cannot access it, how?"**
+#### "I know the system has a headspace but I cannot access it, how?"
 
 Are you *SURE* that there is an inner world already? Its possible that is the problem.
 
@@ -160,7 +160,7 @@ If you cannot access the headspace, remember you can also just make another and 
 If the headspace is blocked to you, you may also wish to try [Projection or Imposition] instead.
 
 
-**"No matter what I do I can't make a headspace, nor can anyone else in here!"**
+#### "No matter what I do I can't make a headspace, nor can anyone else in here!"
 
 Have you looked into aphantasia? A 'text only' or 'audio only' headspace is also possible if you cannot conjure images. If even that is not possible even with effort, you might just have to throw in the towel.
 
