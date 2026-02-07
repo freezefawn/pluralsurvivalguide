@@ -33,6 +33,8 @@ There are also reasons not to utilize a headspace to keep in mind:
 
 Its up to you if its worth working for or not. We want to be clear- **any skill you can work on with a headspace you can work on without it**, it just might be more difficult.
 
+Alternatively, you may find [Projection and Imposition] to be a similar, but more useful skill.
+
 
 ## Clearing Misconceptions
 
@@ -154,6 +156,8 @@ Are you *SURE* that there is an inner world already? Its possible that is the pr
 If you can communicate with your headmates, try talking to them and see if they know what is the matter. Its also possible that whoever controls the headspace does not know you exist, or doesn't want to invite you yet for whatever reason.
 
 If you cannot access the headspace, remember you can also just make another and invite others to join you.
+
+If the headspace is blocked to you, you may also wish to try [Projection or Imposition] instead.
 
 
 **"No matter what I do I can't make a headspace, nor can anyone else in here!"**
