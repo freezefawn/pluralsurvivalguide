@@ -86,68 +86,84 @@ If you already have a headspace you can access, but you want to change aspects o
 
 Generally speaking, you change it by imagining it differently in heavy detail over and over until it 'sticks', though systems with more real-feeling headspaces (such as many of those with heavy spiritual elements) may need to build and change it manually once you have accessed it, rather than just imagining it differently.
 
+Start small and basic as building more complex things and keeping them can be a lot of work. You can make things more complex over time.
+
 This may also be complicated if only some headmates may alter the headspace, or if the headspace itself is conscious enough to resist changes. In this case, you will need to find who is responsible and either ask permission to be able to change it, or ask for them to change it directly.
+
+If multiple members of your system can front, having different system members working on the headspace while in front is a good idea. This can help reinforce the headspace and make it easier to access for everyone.
+
+It is also a good idea to consult as much of the system as possible before changing anything major, as its something that effects everyone.
 
 ### Idea Help
 
 The sky is the limit for one's headspace- it can be quite literally anything you can imagine.
-However, if you would like some ideas and tips:
 
-Start small and basic as building more complex things and keeping them can be a lot of work. You can make things more complex over time.
+However if you would like some ideas for things to put in it, here are a few;
+- Utility spaces or objects
+	-  Place to do switching visualization in/fronting room
+	-  Place that people can pay attention to/communicate with front from
+	-  Object to interact with to enter/exit the headspace
+	-  Place where new headmates come from
+	-  Place where memories are stored/objects that symbolize memories
+	-  Space dedicated to other visualization exercises
+	-  Place to meet and socialize as a group
+- Individual spaces that each headmate can customize to their liking/that are 'for' each headmate
+-  A space that feels comforting and safe to some or all of the system to calm down in.
 
-If multiple members of your system can front, having different system members working on the headspace while in front is a good idea.
-
-your headspace can be anything. Might need help figuring out and researching cool stuff to do to make. Some ideas for things to make:
-
-- Utility spaces (places in the headspace used for visualization exercises to help aid performing system skills like being co-con, switching and fronting, where memories are stored, if your system is a gateway system a gateway so you can control traffic flow, etc)
-- A general central meeting space
-- Individual spaces that each headmate can customize to their liking
-
-useful things to worldbuild and visualize in general list
-- build in a game (like minecraft, the sims, vrchat, etc)
-- use fantasy mapmaking tools (such as ones intended for ttrpgs)
-- look at and study archetecture and home design (or alternatively natural world scenery)
-- write descriptions of it down that you want. get detailed.
-
-as everyone has to use it, consult the whole system
-
+Useful things to worldbuild and visualize in general:
+- Build it in a game (like minecraft, the sims, vrchat, etc)
+- Use fantasy mapmaking tools (such as ones intended for ttrpgs)
+- Look at and study archetecture and home design (or alternatively natural world scenery)
+- Write descriptions of it down or draw them freehand
 
 ## Debugging:
 
+Here are some common problems that may arise regarding headspaces;
 
-If you have trouble accessing an inner world of any kind, it may also be because you simply do not have one.
+**"I can't change my inner world no matter what I do!"**
+If you've tried everything previously mentioned in this guide, you have a few options on what to do next.
 
-Its important to keep in mind- **you can just Make Your Own headspace if others are not letting you play with theirs**, or there is **some barrier preventing you from doing so** despite their best efforts in letting you join in.
+You can make a new headspace from scratch other than the one you are currently working with, try to find the root cause of why your headspace is like that by digging around, wait until you are more experienced in system matters and have improved your skills more, or you can just accept that it is what it is.
 
+Please note that by digging around you may unearth forgotten memories or less well adjusted headmates that you may not be ready to face yet. Please exercise caution if you are going to go digging for answers.
 
+Most systems can eventually learn to tweak a headspace to some level if they have one, but you may be experiencing an exception, and thats ok too.
 
-Next, **talk to your headmates**, see if they are intentionally blocking you from using it. Sometimes this is the case. **The person who made the headspace may also just not know you exist** and so hasnt invited you.
+**"We can't agree on how the inner world should look!"**
+If you cannot agree on how the inner world should look, you can always make multiple separate ones, or make the inner world cycle through all of your system's preferences.
 
-If either of those do not work, then it may be **a dissociative barrier thing**. In which case, work with your system until those barriers go away. **Its not time dependent, its healing dependent.**
+**"The inner world changed suddenly/I suddenly cannot access it!"**
+System skills can wax and wane over time- it just happens on occasion. Did something major happen recently? Major life events -both positive and negative- can cause changes in your abilities.
 
-**If you are young** (minor), this may not go away until you have **left home** as it may be there to **protect you from your current situation**.
+If this is the case, then you will generally have to just wait it out. this can go faster if you try to remove or reduce the stressors that are likely causing it.
 
-In the meantime you will just have to live with not having that experience.
+Try exercises that are not terribly intensive in the meantime.
 
-Having a headspace and/or being able to access the headspace that your system uses is not the end all be all of system experience. It is ok to not have what is considered a more 'typical' experience of having one.
+Its also possible someone shut you out. Did you get into a fight with a headmate recently? Try talking to your headmates if possible to see if they know anything.
 
+**"I know the system has a headspace but I cannot access it, how?"**
+Are you *SURE* that there is an inner world already? Its possible that is the problem.
 
-you can even make multiple headsapce if you want or need to. Cant get into the headspace eveyrone else cna use? cant change your current headspace to your liking? cant decide how to alter your headspace. You can have multiple headspaces per system.
+If you can communicate with your headmates, try talking to them and see if they know what is the matter. Its also possible that whoever controls the headspace does not know you exist, or doesn't want to invite you yet for whatever reason.
 
+If you cannot access the headspace, remember you can also just make another and invite others to join you.
 
-This may make altering or accessing the headspace tricky, as the given headmates **may not have invited you to play with it yet** for whatever reason.
+**"No matter what I do I can't make a headspace, nor can anyone else in here!"**
+
+Have you looked into aphantasia? A 'text only' or 'audio only' headspace is also possible if you cannot conjure images. If even that is not possible even with effort, you might just have to throw in the towel.
+
+Its rare, but sometimes some systems just can't make progress with some things. If you've tried everything and kept at it with little to no changes for a considerable length of time trying to train for it (over a year), you may just have to accept its not happening for you and you aren't getting returns for your effort.
+
+Having a headspace and/or being able to access the headspace that your system uses is not the end all be all of system experience. It is ok to not have what is considered a more 'typical' experience of having one, and if you cannot do it, then you should probably make peace with it.
 
 
 ## External Guides:
+- [Small Worlds, Contained Inside-Visualization Guide](https://healthymultiplicity.com/loonybrain/Info/Small%20Worlds%20Contained%20Inside.html)
+- [Let’s Talk: Headspaces](https://web.archive.org/web/20230517020657/https://what-remains-of-wren.tumblr.com/post/660578239231721472/so-lets-talk-about-headspaces-i-see-a-lot-of)
+- [On Building Headspace](https://lb-lee.dreamwidth.org/763283.html)
+- [Headspace Discovery and Defense](https://lb-lee.dreamwidth.org/1049746.html#cutid1)
+- [The Tulpanomicon](https://tulpanomicon.guide/tulpanomicon.pdf) (Check Wonderlands Section)
 
 
 
-- [https://tulpanomicon.guide/tulpanomicon.pdf](https://tulpanomicon.guide/tulpanomicon.pdf) (go to the wonderlands section, its lots of the same sorts of exercises regardless of your system origin theory)
-    
-- [https://web.archive.org/web/20230517020657/https://what-remains-of-wren.tumblr.com/post/660578239231721472/so-lets-talk-about-headspaces-i-see-a-lot-of](https://web.archive.org/web/20230517020657/https://what-remains-of-wren.tumblr.com/post/660578239231721472/so-lets-talk-about-headspaces-i-see-a-lot-of)
-    
-- [https://healthymultiplicity.com/loonybrain/Info/Small%20Worlds%20Contained%20Inside.html](https://healthymultiplicity.com/loonybrain/Info/Small%20Worlds%20Contained%20Inside.html)
-    
-- [https://lb-lee.dreamwidth.org/763283.html](https://lb-lee.dreamwidth.org/763283.html)
-    
-- [https://lb-lee.dreamwidth.org/1049746.html#cutid1](https://lb-lee.dreamwidth.org/1049746.html#cutid1)
+
