@@ -7,3 +7,8 @@
 - [On Becoming Plural](becomeplural)
 - [Getting To Know Your System](knowsystem)
 - [Improving And Establishing System Skills](systemskills)
+- [Getting It Together](together)
+- [Niche Articles]
+- [The Community]
+- [For Singlets]
+- [Sitemap]
