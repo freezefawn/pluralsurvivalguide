@@ -82,20 +82,34 @@ If it worked and you had a conversation in that space, congrats! You have a head
 
 ## Inner World Building
 
-If you have an inner world, but you want to make it better, that is very possible for many systems!
+If you already have a headspace you can access, but you want to change aspects of it, that is very possible for many systems.
 
+Generally speaking, you change it by imagining it differently in heavy detail over and over until it 'sticks', though systems with more real-feeling headspaces (such as many of those with heavy spiritual elements) may need to build and change it manually once you have accessed it, rather than just imagining it differently.
 
+This may also be complicated if only some headmates may alter the headspace, or if the headspace itself is conscious enough to resist changes. In this case, you will need to find who is responsible and either ask permission to be able to change it, or ask for them to change it directly.
 
-It can be anything you and your system want.
+### Idea Help
 
-systems with more real-feeling headspaces (such as many of those with heavy spiritual elements) may need to build and change it manually with things available in the headspace rather than just imagining it different.
+The sky is the limit for one's headspace- it can be quite literally anything you can imagine.
+However, if you would like some ideas and tips:
 
-some systems may have only some system memebrs that can manipulate the inner world. May need their assistance. Inner owrld may be powered by whats basically the inenr world itself. May need to ask the inner world peromission to change
+Start small and basic as building more complex things and keeping them can be a lot of work. You can make things more complex over time.
 
-you can even make multiple headsapce if you want or need to. Cant get into the headspace eveyrone else cna use? cant change your current headspace to your liking? cant decide how to alter your headspace. You can have multiple headspaces per system.
+If multiple members of your system can front, having different system members working on the headspace while in front is a good idea.
 
+your headspace can be anything. Might need help figuring out and researching cool stuff to do to make. Some ideas for things to make:
 
-This may make altering or accessing the headspace tricky, as the given headmates **may not have invited you to play with it yet** for whatever reason.
+- Utility spaces (places in the headspace used for visualization exercises to help aid performing system skills like being co-con, switching and fronting, where memories are stored, if your system is a gateway system a gateway so you can control traffic flow, etc)
+- A general central meeting space
+- Individual spaces that each headmate can customize to their liking
+
+useful things to worldbuild and visualize in general list
+- build in a game (like minecraft, the sims, vrchat, etc)
+- use fantasy mapmaking tools (such as ones intended for ttrpgs)
+- look at and study archetecture and home design (or alternatively natural world scenery)
+- write descriptions of it down that you want. get detailed.
+
+as everyone has to use it, consult the whole system
 
 
 ## Debugging:
@@ -118,6 +132,11 @@ In the meantime you will just have to live with not having that experience.
 Having a headspace and/or being able to access the headspace that your system uses is not the end all be all of system experience. It is ok to not have what is considered a more 'typical' experience of having one.
 
 
+you can even make multiple headsapce if you want or need to. Cant get into the headspace eveyrone else cna use? cant change your current headspace to your liking? cant decide how to alter your headspace. You can have multiple headspaces per system.
+
+
+This may make altering or accessing the headspace tricky, as the given headmates **may not have invited you to play with it yet** for whatever reason.
+
 
 ## External Guides:
 
@@ -132,7 +151,3 @@ Having a headspace and/or being able to access the headspace that your system us
 - [https://lb-lee.dreamwidth.org/763283.html](https://lb-lee.dreamwidth.org/763283.html)
     
 - [https://lb-lee.dreamwidth.org/1049746.html#cutid1](https://lb-lee.dreamwidth.org/1049746.html#cutid1)
-
-
-
-
