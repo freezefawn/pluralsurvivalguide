@@ -66,6 +66,16 @@ The frequency of your practicing is usually more important than the depth of it 
 
 As you practice you will likely become familliar with the sensation of **'head pressure'** which is a sort of pressure sensation in the head that is very commonly reported in people learning these skills. This is distinct from a headache in that it is a pressure sensation, not pain. **Head pressure is favorable, Headaches are not**. Stop your practicing session if you are feeling pain from it.
 
+### Having Trouble With Skills?
+
+If you are having trouble learning system skills despite regular practice, its important to remember that there is not some set hour count in which you will suddenly have it down- its more like physical therapy. For more disorderly systems in particular, learning system skills is healing, and your recovery will take as long as it takes.
+
+Its also possible that you are just not in a good position to be doing that healing at the moment. If you are still in a stressful situation your brain will continue to do its best to try to protect you, and this means for many more dissociative systems that it will continue to try to keep dissociative barriers up. This can prevent you from gaining ground in a great number of skills.
+
+In particular if you are a minor or otherwise still living at home and unable to leave, -even if you feel as though your situation may not be that bad- if you are having trouble learning skills it may be due to this fact.
+
+You may have to do trauma healing work or change your living situation to make much progress.
+
 With that out of the way;
 
 ## System Skill Guide Masterlist:
