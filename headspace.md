@@ -170,7 +170,7 @@ Having a headspace and/or being able to access the headspace that your system us
 - [Let’s Talk: Headspaces](https://web.archive.org/web/20230517020657/https://what-remains-of-wren.tumblr.com/post/660578239231721472/so-lets-talk-about-headspaces-i-see-a-lot-of)
 - [On Building Headspace](https://lb-lee.dreamwidth.org/763283.html)
 - [Headspace Discovery and Defense](https://lb-lee.dreamwidth.org/1049746.html#cutid1)
-- [The Tulpanomicon](https://tulpanomicon.guide/tulpanomicon.pdf) (Check Wonderlands Section)
+- [The Tulpanomicon](https://tulpanomicon.guide/tulpanomicon.pdf) (check Wonderlands section)
 
 
 
