@@ -1,7 +1,7 @@
 # Dragon's Plural Survival Guide
 
 ## What is this?
-This is a guide about the topic of plurality, and is currently a work in progress!
+This is a guide about the topic of plurality, and is currently a work in progress! If you have been linked to it, bear in mind that this is a rough draft in early alpha.
 
 ## How to Use This Guide
 Plurality can be a super tricky topic, and its even trickier to manage.
