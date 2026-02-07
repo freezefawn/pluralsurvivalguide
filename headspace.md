@@ -130,9 +130,11 @@ Please note that by digging around you may unearth forgotten memories or less we
 
 Most systems can eventually learn to tweak a headspace to some level if they have one, but you may be experiencing an exception, and thats ok too.
 
+
 **"We can't agree on how the inner world should look!"**
 
 If you cannot agree on how the inner world should look, you can always make multiple separate ones, or make the inner world cycle through all of your system's preferences.
+
 
 **"The inner world changed suddenly/I suddenly cannot access it!"**
 
@@ -144,6 +146,7 @@ Try exercises that are not terribly intensive in the meantime.
 
 Its also possible someone shut you out. Did you get into a fight with a headmate recently? Try talking to your headmates if possible to see if they know anything.
 
+
 **"I know the system has a headspace but I cannot access it, how?"**
 
 Are you *SURE* that there is an inner world already? Its possible that is the problem.
@@ -151,6 +154,7 @@ Are you *SURE* that there is an inner world already? Its possible that is the pr
 If you can communicate with your headmates, try talking to them and see if they know what is the matter. Its also possible that whoever controls the headspace does not know you exist, or doesn't want to invite you yet for whatever reason.
 
 If you cannot access the headspace, remember you can also just make another and invite others to join you.
+
 
 **"No matter what I do I can't make a headspace, nor can anyone else in here!"**
 
