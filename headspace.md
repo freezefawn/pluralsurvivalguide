@@ -121,6 +121,7 @@ Useful things to worldbuild and visualize in general:
 Here are some common problems that may arise regarding headspaces;
 
 **"I can't change my inner world no matter what I do!"**
+
 If you've tried everything previously mentioned in this guide, you have a few options on what to do next.
 
 You can make a new headspace from scratch other than the one you are currently working with, try to find the root cause of why your headspace is like that by digging around, wait until you are more experienced in system matters and have improved your skills more, or you can just accept that it is what it is.
@@ -130,9 +131,11 @@ Please note that by digging around you may unearth forgotten memories or less we
 Most systems can eventually learn to tweak a headspace to some level if they have one, but you may be experiencing an exception, and thats ok too.
 
 **"We can't agree on how the inner world should look!"**
+
 If you cannot agree on how the inner world should look, you can always make multiple separate ones, or make the inner world cycle through all of your system's preferences.
 
 **"The inner world changed suddenly/I suddenly cannot access it!"**
+
 System skills can wax and wane over time- it just happens on occasion. Did something major happen recently? Major life events -both positive and negative- can cause changes in your abilities.
 
 If this is the case, then you will generally have to just wait it out. this can go faster if you try to remove or reduce the stressors that are likely causing it.
@@ -142,6 +145,7 @@ Try exercises that are not terribly intensive in the meantime.
 Its also possible someone shut you out. Did you get into a fight with a headmate recently? Try talking to your headmates if possible to see if they know anything.
 
 **"I know the system has a headspace but I cannot access it, how?"**
+
 Are you *SURE* that there is an inner world already? Its possible that is the problem.
 
 If you can communicate with your headmates, try talking to them and see if they know what is the matter. Its also possible that whoever controls the headspace does not know you exist, or doesn't want to invite you yet for whatever reason.
