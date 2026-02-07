@@ -171,6 +171,8 @@ Having a headspace and/or being able to access the headspace that your system us
 
 ## External Guides:
 - [Small Worlds, Contained Inside-Visualization Guide](https://healthymultiplicity.com/loonybrain/Info/Small%20Worlds%20Contained%20Inside.html)
+- [Basic Method On Practicing Visualization](https://web.archive.org/web/20231011122207/https://community.tulpa.info/topic/1131-basic-method-on-practicing-visualization/)
+- [Linkzelda's Image Streaming Guide](https://docs.google.com/document/d/1guub6JF0OGVheUPzddtMyZKHqnrcnuWLYufwGhc3Fmc/edit?tab=t.0#heading=h.gjdgxs)
 - [Let’s Talk: Headspaces](https://web.archive.org/web/20230517020657/https://what-remains-of-wren.tumblr.com/post/660578239231721472/so-lets-talk-about-headspaces-i-see-a-lot-of)
 - [On Building Headspace](https://lb-lee.dreamwidth.org/763283.html)
 - [Headspace Discovery and Defense](https://lb-lee.dreamwidth.org/1049746.html#cutid1)
